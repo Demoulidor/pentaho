@@ -1,0 +1,751 @@
+No;Autor;UO;Função;Eh;Subfunção;Localização;Subtítulo;Qtde;Unidade;Valor
+1;Luzia de Paula (Alírio);DER-DF;Urbanismo;Não é evento;Desenvolvimento urbano;X-Guará;Realização de obras de pavimentação asfáltica no Setor Joquei Clube;5.000;m2;1.500.000,00
+2;Luzia de Paula (Alírio);AR Guará;Urbanismo;Não é evento;Desenvolvimento urbano;X-Guará;Realização de obras de urbanização e Infraestrutura em diversas localidades do Guará;10.000;m2;2.300.000,00
+3;Luzia de Paula (Alírio);AR Guará;Energia;Não é evento;Infra-Estrutura urbana;X-Guará;Ampliação dos pontos de iluminação pública;150;luminária;300.000,00
+4;Luzia de Paula (Alírio);AR Guará;Desporto e Lazer;Não é evento;Desporto Comunitário;X-Guará;Construção de campo sintético de futebol amador no Guará;500;m2;1.000.000,00
+5;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do 12o Encontro de Violeiros;1;evento;150.000,00
+6;Luzia de Paula (Alírio);AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Construção de pista para a prática de cooper e caminhadas no Guará;3.000;m2;400.000,00
+7;Luzia de Paula (Alírio);AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Construção de Pontos de Encontro Comunitários - PEC no Guará;4;PEC;400.000,00
+8;Luzia de Paula (Alírio);AR Guará;Desporto e Lazer;Não é evento;Lazer;X-Guará;Construção de playgrounds em diversos locais do Guará;5;play-ground;300.000,00
+9;Luzia de Paula (Alírio);AR Guará;Desporto e Lazer;Não é evento;Desporto Comunitário;X-Guará;Construção de diversas quadras poliesportivas no Guará;1.200;m2;300.000,00
+10;Luzia de Paula (Alírio);AR Recanto das Emas;Desporto e Lazer;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Construção de Pontos de Encontro Comunitários - PEC em Água Quente;1;PEC;100.000,00
+11;Luzia de Paula (Alírio);Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Construção de Pontos de Encontro Comunitários - PEC em Ceilândia;5;PEC;500.000,00
+12;Luzia de Paula (Alírio);Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Construção do Estacionamento do HRC;3.000;m2;350.000,00
+13;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da Semana da África;1;evento;150.000,00
+14;Luzia de Paula (Alírio);AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Construção da Praça Ipê Amarelo em Águas Claras;3.000;m2;150.000,00
+15;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Festival da Arte e da Cultura Candanga - FACC;1;evento;300.000,00
+16;Luzia de Paula (Alírio);SE Criança;Cultura;Evento;Difusão cultural;DF;Exibição de filmes cinematorgáficos nas unidades do sistema socio-educativo da Sec. Da Criança;100;evento;250.000,00
+17;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização do Dia do Sertanejo;1;evento;225.000,00
+18;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Dia do Estudante (umesb);1;evento;200.000,00
+19;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização de eventos culturais das paróquias São Marcos e São Lucas em Ceilândia ;4;evento;200.000,00
+20;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do evento Viva Arte Via;1;evento;100.000,00
+21;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização da Semana de Arte e Cultura de Ceilândia;1;evento;100.000,00
+22;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da Caravana da Igualdade Racial;1;evento;150.000,00
+23;Luzia de Paula (Alírio);SE Justiça;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Construção de galpão e reforma das instalações prediais da Junta de Serviço Militar;500;m2;350.000,00
+24;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio ao lançamento do CD Cantando São Francisco do Rio Abaixo nas escolas;1;evento;100.000,00
+25;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização do evento Tributo ao Rei Roberto Carlos;1;evento;90.000,00
+26;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização do Festival de Música Cristã;1;evento;100.000,00
+27;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de 10 edições do evento Andança Sertaneja;10;evento;400.000,00
+28;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização do Festival Internacional de Bonecos;1;evento;100.000,00
+29;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização de 7 eventos relativos a aniversários de bairros de Ceilândia;7;evento;350.000,00
+30;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização da Festa de Criança no Sol Nascente;1;evento;200.000,00
+31;Luzia de Paula (Alírio);Novacap;Desporto e Lazer;Não é evento;Desporto Comunitário;IX-Ceilândia;Construção de 4 quadras de esportes ;2.500;m2;600.000,00
+32;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização do Arraiá da Feira do Produtor em Ceilândia;1;evento;225.000,00
+33;Luzia de Paula (Alírio);AR Recanto das Emas;Desporto e Lazer;Não é evento;Desporto Comunitário;XV-Recanto das Emas;Construção de quadra poliesportiva no Setor Habitacional Água Quente;500;m2;150.000,00
+34;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização da Festa Junina da Guariroba;1;evento;100.000,00
+35;Luzia de Paula (Alírio);Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Realização de obras de revitalização da Feira do Produtor de Ceilândia;800;m2;300.000,00
+36;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do evento Itinerância Forrozeira;3;evento;150.000,00
+37;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do evento Vaqueijada JC;1;evento;200.000,00
+38;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização do evento Folia de Reis;1;evento;200.000,00
+39;Luzia de Paula (Alírio);SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de 10 edições do evento Radio Feira Show;10;evento;400.000,00
+40;Luzia de Paula (Alírio);SE Esporte;Desporto e Lazer;Evento;Desporto Comunitário;IX-Ceilândia;Apoio à realização de eventos esportivos (Leão de Judá);2;evento;60.000,00
+41;Arlete Sampaio;SEDEST;Assistência Social;Não é evento;Ass. Criança / Adolescente;DF;Apoio à entidades que atuam na área de assistência social;1;pessoa;390.000,00
+42;Arlete Sampaio;Jardim Botânico;Agricultura ;Evento;Subfunção não informada;DF;Apoio a eventos de divulgação do cultivo de orquídeas;2;evento;40.000,00
+43;Arlete Sampaio;SE Cultura;Cultura;Não é evento;Patrimônio histórico;DF;Apoio financeiro ao Instituto Histórico e Geográfico do DF;1;projeto;100.000,00
+44;Arlete Sampaio;AR Lago Norte;Gestão Ambiental;Não é evento;Revitalização de parques;XVIII-Lago Norte;Revitalização do Parque Vivencial II;1;parque;100.000,00
+45;Arlete Sampaio;SE Cultura;Cultura;Evento;Difusão cultural;XII-Samambaia;Apoio à Realização da Paixão do Cristo Negro;1;evento;100.000,00
+46;Arlete Sampaio;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de Via Sacra em Taguatinga, Planaltina e Paranoá;3;evento;300.000,00
+47;Arlete Sampaio;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos culturais;11;evento;1.340.000,00
+48;Arlete Sampaio;Fundo de Saúde;Saúde;Não é evento;Tecnologia da Informação;DF;Modernização de sistemas de informação - FEPECS;1;sistema;100.000,00
+49;Arlete Sampaio;Fundo de Saúde;Saúde;Não é evento;Ass. Hospitalar;DF;Estruturação dos bancos de leite dos Hospitais de Brazlândia e Planaltina;2;prédio;200.000,00
+50;Arlete Sampaio;CEAJUR;Justiça;Não é evento;Ass. Jurídica;DF;Projeto Defensor da Comunidade;1;sistema;250.000,00
+51;Arlete Sampaio;SE Educação;Educação;Não é evento;Educação Básica;DF;Implantação de Educação Infantil em tempo integral;3;creche;1.500.000,00
+52;Arlete Sampaio;AR Planaltina;Desporto e Lazer;Não é evento;Desporto Comunitário;VI-Planaltina;Construção de quadras de esportes com iluminação na Vila de Fátima e no Vale do Amanhecer;1;quadra;200.000,00
+53;Arlete Sampaio;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Execução de obras de urbanização, inclusive da quadra 1101 do Cruzeiro Novo;1;área;500.000,00
+54;Arlete Sampaio;SEDEST;Assistência Social;Não é evento;Ass. Criança / Adolescente;DF;Construção de Centro de Referência da Assistência Social;3;centro;1.000.000,00
+55;Arlete Sampaio;SE Agricultura;Agricultura ;Não é evento;Extensão rural;DF;Promoção do desenvolvimento da Agricultura Familiar e da AgroEcologia;1;família;200.000,00
+56;Arlete Sampaio;AR Riacho Fundo II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Urbanização de praças e PEC;1;praça;100.000,00
+57;Arlete Sampaio;AR Brazlândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Construção de praça com área de lazer no Setor Veredas;1;praça;200.000,00
+58;Arlete Sampaio;SE Educação;Educação;Não é evento;Educação Básica;DF;Reforma de unidade de ensino médio;4;escolas;1.000.000,00
+59;Arlete Sampaio;Instituto do Meio Ambiente;Gestão Ambiental;Não é evento;Preservação ambiental;XII-Samambaia;Apoio ao cercamento do Parque Guatumé e revitalização do Parque Três Meninas;2;parque;250.000,00
+60;Arlete Sampaio;AR Sobradinho;Urbanismo;Não é evento;Infra-Estrutura urbana;V-Sobradinho;Execução de obras de urbanização;1;área;200.000,00
+61;Arlete Sampaio;AR Brasília;Energia;Não é evento;Infra-Estrutura urbana;I-Plano Piloto;Ampliação dos pontos de iluminação pública;1;luminária;200.000,00
+62;Arlete Sampaio;AR Brasília;Desporto e Lazer;Não é evento;Desporto Comunitário;I-Plano Piloto;Construção de ginásio de multiplas funções;1;ginásio;400.000,00
+63;Arlete Sampaio;AR Guará;Desporto e Lazer;Não é evento;Desporto Comunitário;X-Guará;Reforma de ginásio de esportes;1;ginásio;200.000,00
+64;Arlete Sampaio;AR Sudoeste/Octogonal;Urbanismo;Não é evento;Infra-Estrutura urbana;XXII-Sudoeste/Octogonal;Urbanização da área pública situada entre o Ciman e a Octogonal 4;1;área;80.000,00
+65;Arlete Sampaio;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Implantação de PEC e Kit Malhação Praça 4, Setor Sul e Quadra 31, Setor Oeste;2;praça;300.000,00
+66;Arlete Sampaio;AR SCIA;Desporto e Lazer;Não é evento;Desporto Comunitário;XXV-SCIA (Estrutural);Reforma de quadra esportiva na Estrutural;1;quadra;150.000,00
+67;Arlete Sampaio;AR Ceilândia;Cultura;Não é evento;Difusão cultural;IX-Ceilândia;Promoção de projetos culturais;1;projeto;200.000,00
+68;Arlete Sampaio;AR São Sebastião;Desporto e Lazer;Não é evento;Desporto Comunitário;XIV-São Sebastião;Cobertura e construção de banheiros e vestiários em quadra poliesportivo do bairro Vila Boa;1;quadra;200.000,00
+69;Arlete Sampaio;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Urbanização da quadra 402 conj 29/30/32, com implantação de parque infantil;1;praça;200.000,00
+70;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Promoção da qualidade de vida no trabalho e bem estar social dos servidore da CLDF;0;Unidade não informada;150.000,00
+71;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Admin. Pessoal;I-Plano Piloto;Administração de pessoal;0;Unidade não informada;6.143.392,00
+72;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção de serviços administrativos gerais - Serviços de Segurança;0;Unidade não informada;3.000.000,00
+73;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção de serviços administrativos gerais;0;Unidade não informada;1.856.608,00
+74;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção de serviços administrativos gerais;0;Unidade não informada;191.956,00
+75;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção de serviços administrativos gerais;0;Unidade não informada;308.044,00
+76;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Admin. Pessoal;I-Plano Piloto;Administração de pessoal;0;Unidade não informada;856.608,00
+77;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção de serviços administrativos gerais;0;Unidade não informada;5.000.000,00
+78;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Admin. Pessoal;I-Plano Piloto;Administração de pessoal;0;Unidade não informada;8.000.000,00
+79;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Admin. Pessoal;I-Plano Piloto;Administração de pessoal;0;Unidade não informada;6.700.546,00
+80;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Admin. Pessoal;I-Plano Piloto;Administração de pessoal;0;Unidade não informada;43.000.000,00
+81;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda - funcionamento da TV Legislativa;0;Unidade não informada;3.000.000,00
+82;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda - funcionamento da TV Legislativa;0;Unidade não informada;3.000.000,00
+83;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda - funcionamento da TV Legislativa;0;Unidade não informada;1.057.160,00
+84;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda - funcionamento da Radio Legislativa;0;Unidade não informada;257.160,00
+85;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda - funcionamento da TV Legislativa;0;Unidade não informada;242.840,00
+86;Mesa Diretora;CLDF;Saúde;Não é evento;Ass. Hospitalar;I-Plano Piloto;Manutenção do Fundo de Assistência à Saude dos funionários da CLDF;0;Unidade não informada;77.349,00
+87;Mesa Diretora;CLDF;Saúde;Não é evento;Ass. Hospitalar;I-Plano Piloto;Manutenção do Fundo de Assistência à Saude dos funionários da CLDF;0;Unidade não informada;265.491,00
+88;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda - funcionamento da Radio Legislativa;0;Unidade não informada;1.542.840,00
+89;Mesa Diretora;CLDF;Encargos Especiais;Não é evento;Outros encargos;I-Plano Piloto;Ressarcimentos, indenizações e restituições;0;Unidade não informada;100.000,00
+90;Mesa Diretora;CLDF;Admin. Geral;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção de serviços administrativos gerais;0;Unidade não informada;2.457.160,00
+91;Mesa Diretora;CLDF;Tecnologia da Informação;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Gestão da Informação e dos Sistemas de TI;0;Unidade não informada;764.000,00
+92;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda institucional;0;Unidade não informada;24.000.000,00
+93;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda institucional;0;Unidade não informada;500.000,00
+94;Mesa Diretora;CLDF;Comunicação Social;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Publicidade e propaganda institucional;0;Unidade não informada;1.200.000,00
+95;Mesa Diretora;CLDF;Saúde;Não é evento;Ass. Hospitalar;I-Plano Piloto;Manutenção do Fundo de Assistência à Saude dos funionários da CLDF;0;Unidade não informada;858.509,00
+96;Mesa Diretora;CLDF;Saúde;Não é evento;Ass. Hospitalar;I-Plano Piloto;Manutenção do Fundo de Assistência à Saude dos funionários da CLDF;0;Unidade não informada;1.774.500,00
+97;Mesa Diretora;CLDF;Tecnologia da Informação;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Gestão da Informação e dos Sistemas de TI;0;Unidade não informada;3.345.000,00
+98;Arlete Sampaio;SEDEST;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;DF;Apoio à ações de Prevenção e Combate à Homofobia;1;ação;100.000,00
+99;Arlete Sampaio;SE Casa Civil;Direitos da Cidadania;Não é evento;Segurança Pública;DF;Capacitação de servidores públicos na temática de Gênero, Raça e Violência contra as Mulheres;0;Unidade não informada;200.000,00
+100;Arlete Sampaio;SE Governo;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;DF;Implantação dos Centros da Juventude;1;projeto;500.000,00
+101;Arlete Sampaio;SE Governo;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;DF;Implantação da Política Distrital da Juventude e Comemorações do Mês da Juventude ;1;pessoa;250.000,00
+102;Arlete Sampaio;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Promoção de ações do Plano Distrital do Livro e Leitura, e eventos nas bibliotecas públicas;1;projeto;400.000,00
+103;Arlete Sampaio;SE Casa Civil;Direitos da Cidadania;Evento;Dir. Individuais, Coletivos;DF;Apoio às comemorações do Dia da Consciência Negra (e dos aniversários das leis referentes);1;ação;250.000,00
+104;Arlete Sampaio;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Festival de Ópera - Orquestra Sinfônica do Teatro Nacional;1;orquestra;500.000,00
+105;Arlete Sampaio;SE Criança;Direitos da Cidadania;Não é evento;Ass. Criança / Adolescente;DF;Apoio à estruturação dos Conselhos Tutelares;33;conselho;300.000,00
+106;Arlete Sampaio;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Revitalização e reforma de espaços culturais no DF;0;Unidade não informada;500.000,00
+107;Arlete Sampaio;SE Obras;Cultura;Não é evento;Difusão cultural;VI-Planaltina;Construção de complexo cultural;1;centro;500.000,00
+108;Celina Leão;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à eventos ;20;evento;2.700.000,00
+109;Celina Leão;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de urbanização;20.000;m2;10.800.000,00
+110;Benedito Domingos;SE Obras;Segurança Pública;Não é evento;Segurança Pública;III-Taguatinga;Construção da nova sede da 12a Delegacia de Polícia;1;prédio;200.000,00
+111;Benedito Domingos;SE Obras;Comércio e Serviços;Não é evento;Infra-Estrutura urbana;DF;Reforma de feiras;2.000;m2;400.000,00
+112;Benedito Domingos;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Execução de obras de urbanização e melhorias no Taguaparque;1.000;m2;400.000,00
+113;Benedito Domingos;SE Cultura;Cultura;Evento;Difusão cultural;DF;Incentivo a atividades socio-culturais ;20;evento;1.500.000,00
+114;Benedito Domingos;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de infra-estrutura urbana;10.000;m2;3.000.000,00
+115;Benedito Domingos;SE Cultura;Cultura;Evento;Difusão cultural;DF;Fomento a arte e cultura;20;evento;1.500.000,00
+116;Benedito Domingos;SE Obras;Desporto e Lazer;Não é evento;Infra-Estrutura urbana;DF;Reforma de espaços esportivos;3;espaço;500.000,00
+117;Benedito Domingos;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Apoio ao Esporte e Lazer;4;projeto;800.000,00
+118;Benedito Domingos;SE Obras;Assistência Social;Não é evento;Ass. Portador Deficiência;III-Taguatinga;Construção do Centro de Convivência para Portadores de Necessidades Especiais, Surdos e Mudos;1;centro;200.000,00
+119;Benedito Domingos;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Construção de estacionamentos públicos;10.000;m2;500.000,00
+120;Benedito Domingos;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Execução de obras de infra-estrutura urbana;1.000;m2;600.000,00
+121;Benedito Domingos;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Execução de obras de urbanização e melhorias no Set. de Mansões;1.000;m2;200.000,00
+122;Benedito Domingos;AR SCIA;Urbanismo;Não é evento;Infra-Estrutura urbana;XXV-SCIA (Estrutural);Execução de obras de infra-estrutura urbana;1.000;m2;600.000,00
+123;Benedito Domingos;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Execução de obras de infra-estrutura urbana;1.000;m2;600.000,00
+124;Benedito Domingos;AR Itapoã;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Execução de obras de infra-estrutura urbana;1.000;m2;600.000,00
+125;Benedito Domingos;AGEFIS;Administração;Não é evento;Tecnologia da Informação;DF;Apoio para ações de desenvolvimento de solução corporativa informatizada;1;sistema;300.000,00
+126;Benedito Domingos;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Execução de obras de infra-estrutura urbana;1.000;m2;600.000,00
+127;Benedito Domingos;Jardim Zoológico;Gestão Ambiental;Não é evento;Preservação ambiental;DF;Execução de obras e melhorias ;2.000;m2;400.000,00
+128;Benedito Domingos;PCDF;Segurança Pública;Não é evento;Infra-Estrutura urbana;DF;Execução de reforma e ampliação do Instituto de Identificação da PCDF;2.000;m2;200.000,00
+129;Benedito Domingos;Novacap;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Construção de P.E.C.s;1.000;m2;400.000,00
+130;Aylton Gomes;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Realização de diversas obras de urbanização, construção e reforma;20.000;m2;450.000,00
+131;Aylton Gomes;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Realização de diversas obras de urbanização, construção e reforma;10.000;m2;300.000,00
+132;Aylton Gomes;AR Itapoã;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Realização de diversas obras de urbanização, construção e reforma;50.000;m2;900.000,00
+133;Aylton Gomes;Novacap;Cultura;Não é evento;Difusão cultural;VI-Planaltina;Construção da Casa da Cultura;1;centro;200.000,00
+134;Aylton Gomes;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Realização de diversas obras de urbanização, construção e reforma;10.000;m2;300.000,00
+135;Aylton Gomes;Novacap;Urbanismo;Não é evento;Desporto Comunitário;VI-Planaltina;Construção de piscina no 9o GBM ;0;espaço;150.000,00
+136;Aylton Gomes;Fundo de Saúde;Saúde;Não é evento;Atenção básica à saúde;VI-Planaltina;Construção de UTI no HR Planaltina;10.000;m2;100.000,00
+137;Aylton Gomes;SEDEST;Administração;Não é evento;Comunicação Social;DF;Publicidade e propaganda da SEDEST;0;Unidade não informada;3.000.000,00
+138;Aylton Gomes;SE Segurança;Segurança Pública;Não é evento;RH;DF;Capacitação de agentes de Segurança Pública;500;pessoa;50.000,00
+139;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Realização da Festa do Padroeiro na Paróquia São Vicente de Paulo;1;evento;100.000,00
+140;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Realização da Festa do Divino Espírito Santo;1;evento;150.000,00
+141;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Realização da Grande Cruzada Evangelística;1;evento;150.000,00
+142;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Realização da Festa do Boi de Seu Teodoro;1;evento;100.000,00
+143;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;XVI-Lago Sul;Realização da Festa do Círio de Nazaré na Paróquia Nossa Senhora de Nazaré;1;evento;100.000,00
+144;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Realização da Festa da Santa Rita;1;evento;100.000,00
+145;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Realização da Via Sacra;1;evento;300.000,00
+146;Aylton Gomes;AR Itapoã;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Realização de diversos eventos culturais, sociais e desportivos;10;evento;1.000.000,00
+147;Aylton Gomes;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Realização de diversos eventos culturais;1;evento;100.000,00
+148;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Realização de diversos eventos culturais e sociais;10;evento;1.000.000,00
+149;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do 2o Festival de Música Candango Cantador;1;evento;250.000,00
+150;Aylton Gomes;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Realização de diversos eventos culturais, sociais e desportivos;10;evento;1.000.000,00
+151;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Realização de diversos eventos culturais e sociais;10;evento;1.000.000,00
+152;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Realização do projeto Hip Hop por toda parte;5;evento;400.000,00
+153;Aylton Gomes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Promoção de atividades culturais e educacionais;10;evento;1.000.000,00
+154;Aylton Gomes;AR Planaltina;Agricultura ;Evento;Difusão cultural;VI-Planaltina;Realização da Festa do Pimentão no NR Taquará;1;evento;50.000,00
+155;Aylton Gomes;SE Esporte;Desporto e Lazer;Evento;Desporto Comunitário;DF;Realização de diversas atividades esportivas e culturais;10;evento;400.000,00
+156;Aylton Gomes;AR Planaltina;Agricultura ;Evento;Difusão cultural;VI-Planaltina;Realização da Feira do Produtor no NR Tabatinga;1;evento;50.000,00
+157;Aylton Gomes;PCDF;Segurança Pública;Não é evento;Infra-Estrutura urbana;DF;Reforma e ampliação do Instituto de Identificação da PCDF;10.000;m2;200.000,00
+158;Aylton Gomes;Novacap;Urbanismo;Não é evento;Desporto Comunitário;VI-Planaltina;Construção de quadra poliesportiva coberta no 9o GBM ;5.000;m2;300.000,00
+159;Aylton Gomes;Novacap;Urbanismo;Não é evento;Desporto Comunitário;XIII-Santa Maria;Construção de quadra poliesportiva coberta no 18o GBM ;5.000;m2;300.000,00
+160;Agaciel Maia;AR São Sebastião;Desporto e Lazer;Não é evento;Desporto Comunitário;XIV-São Sebastião;Construção de campo de grama sintética ;7.000;m2;1.000.000,00
+161;Agaciel Maia;AR São Sebastião;Urbanismo;Não é evento;Infra-Estrutura urbana;XIV-São Sebastião;Execução de obras de urbanização e infraestrutura;5.000;m2;5.000.000,00
+162;Agaciel Maia;AR Núcleo Bandeirante;Urbanismo;Não é evento;Infra-Estrutura urbana;VIII-Núcleo Bandeirante;Execução de obras de urbanização e infraestrutura;500;m2;500.000,00
+163;Agaciel Maia;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização e infraestrutura;1.000;m2;1.000.000,00
+164;Agaciel Maia;AR Itapoã;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Execução de obras de urbanização e infraestrutura;1.000;m2;1.000.000,00
+165;Agaciel Maia;AR Riacho Fundo II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Execução de obras de urbanização e infraestrutura;600;m2;600.000,00
+166;Agaciel Maia;AR Riacho Fundo I;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Execução de obras de urbanização e infraestrutura;600;m2;600.000,00
+167;Agaciel Maia;AR Recanto das Emas;Desporto e Lazer;Evento;Desporto Comunitário;XV-Recanto das Emas;Realização de eventos esportivos;2;evento;100.000,00
+168;Agaciel Maia;AR Riacho Fundo;Desporto e Lazer;Evento;Desporto Comunitário;XVII-Riacho Fundo I;Realização de eventos esportivos;3;evento;150.000,00
+169;Agaciel Maia;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Execução de obras de urbanização e infraestrutura;500;m2;300.000,00
+170;Agaciel Maia;AR São Sebastião;Desporto e Lazer;Evento;Desporto Comunitário;XIV-São Sebastião;Realização de eventos esportivos;5;evento;250.000,00
+171;Agaciel Maia;AR Riacho Fundo;Cultura;Evento;Difusão cultural;XVII-Riacho Fundo I;Apoio a eventos culturais;3;evento;300.000,00
+172;Agaciel Maia;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio a atividades culturais;5;evento;500.000,00
+173;Agaciel Maia;AR São Sebastião;Cultura;Evento;Difusão cultural;XIV-São Sebastião;Apoio às atividades culturais;15;evento;800.000,00
+174;Agaciel Maia;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio às atividades culturais;10;evento;1.400.000,00
+175;Paulo Roriz;SE Obras;Energia;Não é evento;Infra-Estrutura urbana;DF;Ampliação da rede de iluminação pública;2.000;metro;1.000.000,00
+176;Paulo Roriz;SE Esporte;Desporto e Lazer;Evento;Desporto Comunitário;DF;Apoio a eventos esportivos;15;evento;1.000.000,00
+177;Paulo Roriz;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de urbanização;30.000;m2;3.000.000,00
+178;Paulo Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio a eventos culturais;15;evento;3.000.000,00
+179;Paulo Roriz;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de urbanização;1.500;m2;150.000,00
+180;Paulo Roriz;AR Ceilândia;Cultura;Evento;Difusão cultural;IX-Ceilândia;Realização de evento - Aniversário da Cidade;3;evento;300.000,00
+181;Paulo Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao encontro cultural dos Portadores de Necessidades Especiais;3;evento;100.000,00
+182;Paulo Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao evento "Brasil/Portugal 513 anos de história";3;evento;100.000,00
+183;Paulo Roriz;AR Itapoã;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Apoio ao evento Dia das Crianças ;1;evento;70.000,00
+184;Paulo Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio a eventos culturais e educativos;10;evento;530.000,00
+185;Paulo Roriz;AR Varjão;Cultura;Evento;Difusão cultural;XXIII-Varjão;Apoio para realização de atividades culturais;3;evento;50.000,00
+186;Paulo Roriz;AR Itapoã;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Apoio para realização de atividades culturais;3;evento;50.000,00
+187;Paulo Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio para realização de atividades culturais;3;evento;50.000,00
+188;Paulo Roriz;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Execução de obras de urbanização;30.000;m2;300.000,00
+189;Paulo Roriz;AR Itapoã;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Execução de obras de urbanização;30.000;m2;300.000,00
+190;Paulo Roriz;AR Varjão;Urbanismo;Não é evento;Infra-Estrutura urbana;XXIII-Varjão;Execução de obras de urbanização;45.000;m2;450.000,00
+191;Paulo Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio a eventos voltados para a cultura;10;evento;1.050.000,00
+192;Paulo Roriz;SE Micro Empresa;Administração;Evento;Des. Econômico;DF;Apoio a eventos relacionados ao empreendedorismo;15;evento;2.000.000,00
+193;Joe Valle;Fundo de Saúde;Saúde;Não é evento;Vigilância Sanitária;DF;Apoio ao projeto "Corrente ambiental: comunidade sem dengue" desenvolvido pela Ass. APV;1;ação;64.800,00
+194;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Extensão rural;DF;Apoio à assistência técnica e inovação da tecnologia agropecuária - fomento à floricultura;0;Unidade não informada;250.000,00
+195;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Extensão rural;DF;Apoio ao desenvolvimento da gestão de empreendimentos rurais - fomento à (...) juventude rural;0;Unidade não informada;244.000,00
+196;Joe Valle;SE Obras;Cultura;Não é evento;Difusão cultural;VI-Planaltina;Apoio à construção/reforma do Complexo Cultural de Planaltina;1;centro;500.000,00
+197;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Extensão rural;DF;Apoio ao desenvolvimento da gestão de empreendimentos rurais - fomento aos produtos artesanais;0;Unidade não informada;86.000,00
+198;Joe Valle;EMATER-DF;Agricultura ;Evento;Extensão rural;DF;Apoio à realização da Feira Saberes - Cores e Sabores;500;pessoa;100.000,00
+199;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Promoção da prod. Vegetal;DF;Apoio à construção da agroindústria;0;Unidade não informada;460.000,00
+200;Joe Valle;SE Cultura;Cultura;Evento;Difusão cultural;XVI-Lago Sul;Apoio ao evento denominado "Via Sacra do Lago Sul 2013";1;evento;100.000,00
+201;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Normalização e qualidade;DF;Apoio à manutenção da qualidade dos alimentos;150;análise;120.000,00
+202;Joe Valle;SE Obras;Cultura;Não é evento;Difusão cultural;IV-Brazlândia;Apoio à construção/reforma do Complexo Cultural de Brazlândia;1;centro;500.000,00
+203;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Preservação ambiental;DF;Apoio à distribuição de containers de lixo;60;projeto;130.000,00
+204;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Infra-Estrutura urbana;DF;Apoio à construção do Centro de Capacitação - PAD/DF;400;m2;800.000,00
+205;Joe Valle;AR Taguatinga;Desporto e Lazer;Não é evento;Desporto Comunitário;III-Taguatinga;Apoio à reforma com instalação de alambrados na Ass. Dos Veteranos de Taguatinga;100;m2;150.000,00
+206;Joe Valle;SE Obras;Cultura;Não é evento;Difusão cultural;XIV-São Sebastião;Apoio à construção/reforma do Complexo Cultural de São Sebastião;1;centro;500.000,00
+207;Joe Valle;SE Obras;Cultura;Não é evento;Difusão cultural;II-Gama;Apoio à construção/reforma do Complexo Cultural do Gama;1;centro;500.000,00
+208;Joe Valle;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do projeto denominado "Festival Água no Terceiro Milênio - Feira Novo Encanto";1;evento;100.000,00
+209;Joe Valle;EMATER-DF;Agricultura ;Evento;Extensão rural;DF;Apoio à realização da VI Agrobrasília - Feira de tecnologia e negócios;1.000;pessoa;200.000,00
+210;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Extensão rural;DF;Apoio à promoção da inclusão social e produtiva da população rural - Agricultura urbana do DF;500;pessoa;200.000,00
+211;Joe Valle;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do "Festival Puroritmo - DF";1;evento;300.000,00
+212;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Extensão rural;IV-Brazlândia;Apoio à implantação do Parque Tecnológico do Morango;1.000;pessoa;320.000,00
+213;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Irrigação;DF;Apoio à infraestrutura rural;30;km;500.000,00
+214;Joe Valle;SE Educação;Educação;Não é evento;Ensino Fundamental;DF;Apoio à reforma geral e ampliação das unidades de ensino fundamental e médio;1.000;m2;2.000.000,00
+215;Joe Valle;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio à Associação das Entidades Usuárias de Canal Comunitário;1;projeto;200.000,00
+216;Joe Valle;SE Agricultura;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Apoio à construção de PEC e parque infantil;120;m2;150.000,00
+217;Joe Valle;SE Agricultura;Agricultura ;Evento;Difusão cultural;DF;Apoio à realização da 1a Copa de Futebol Amador;1;evento;100.000,00
+218;Joe Valle;SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à eventos realizados pela Bateria Nota Show;2;evento;100.000,00
+219;Joe Valle;EMATER-DF;Agricultura ;Evento;Extensão rural;DF;Apoio à Festa Flor Brasil;1.000;pessoa;150.000,00
+220;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Promoção da prod. Vegetal;DF;Apoio à produção de sementes e mudas;90;família;150.000,00
+221;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Preservação ambiental;DF;Apoio ao programa de reabilitação ambiental da área rural;3;há;400.000,00
+222;Joe Valle;Instituto do Meio Ambiente;Gestão Ambiental;Não é evento;Preservação ambiental;DF;Apoio ao sistema de atendimento de emergências ambientais - prevenção e combate às queimadas;1;atendimento;100.000,00
+223;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Extensão rural;DF;Apoio ao desenvolvimento da agroecologia e da agricultura orgânica;500;pessoa;250.000,00
+224;Joe Valle;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;VII-Paranoá;Apoio à implementação de quadras poliesportivas nos NR Cariru, Capão Seco e Jardim II;800;m2;1.000.000,00
+225;Joe Valle;EMATER-DF;Agricultura ;Evento;Extensão rural;DF;Apoio à realização do Encontro Distrital de Mulheres Rurais;500;pessoa;100.000,00
+226;Joe Valle;Fundo de Saúde;Saúde;Não é evento;Atenção básica à saúde;III-Taguatinga;Apoio ao projeto "3S na Melhor Idade: Saúde, Social, Solidária pela Ass. AMIT;100;pessoa;200.000,00
+227;Joe Valle;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;DF;Apoio à ampliação do ambiente de convivência dos idosos abrigados na Casa do Idoso Lar São José;100;pessoa;105.000,00
+228;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Promoção da prod. Vegetal;DF;Apoio à Olericultura;0;Unidade não informada;500.000,00
+229;Joe Valle;EMATER-DF;Agricultura ;Não é evento;Infra-Estrutura urbana;DF;Apoio à construção de prédios e próprios - Emater;200;m2;100.000,00
+230;Joe Valle;SE Agricultura;Agricultura ;Não é evento;Gestão Man. Serv. Estado;DF;Apoio à construção do Centro Comunitário Oziel Alves III;200;m2;371.000,00
+231;Washington Mesquita;AR Núcleo Bandeirante;Urbanismo;Não é evento;Infra-Estrutura urbana;VIII-Núcleo Bandeirante;Obras de infra-estrutura e urbanização;150;m2;150.000,00
+232;Washington Mesquita;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Construção de praça na Quadra 110;150;m2;150.000,00
+233;Washington Mesquita;AR Riacho Fundo I;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Obras de infra-estrutura e urbanização;500;m2;450.000,00
+234;Washington Mesquita;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Reforma da Feira da QNN 37;150;m2;150.000,00
+235;Washington Mesquita;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio à realização de Festas Juninas;50;evento;400.000,00
+236;Washington Mesquita;AR Taguatinga;Desporto e Lazer;Evento;Desporto Comunitário;III-Taguatinga;Apoio à realização de eventos esportivos  ;25;evento;500.000,00
+237;Washington Mesquita;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Obras de infra-estrutura e urbanização;500;m2;600.000,00
+238;Washington Mesquita;AR Recanto das Emas;Cultura;Evento;Difusão cultural;XV-Recanto das Emas;Apoio ao "Encontro das Famílias";1;evento;50.000,00
+239;Washington Mesquita;AR Recanto das Emas;Cultura;Evento;Difusão cultural;XV-Recanto das Emas;Apoio ao evento "Festa da Comunidade da Quadra 106";1;evento;100.000,00
+240;Washington Mesquita;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Construção de praça no Polo de Modas;500;m2;500.000,00
+241;Washington Mesquita;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao evento "Hallel";20;evento;200.000,00
+242;Washington Mesquita;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à comemoração do Dia de Nossa Senhora e do Dia das Crianças;20;evento;200.000,00
+243;Washington Mesquita;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à celebração de Corpus Christi;20;evento;200.000,00
+244;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Construção de PEC;1.500;m2;500.000,00
+245;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Recuperação e reforma de quadras poliesportivas;500;m2;500.000,00
+246;Washington Mesquita;SE Cultura;Cultura;Evento;Difusão cultural;DF;Incentivando a cultura musical na Capital;1;evento;60.000,00
+247;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Obras de revitalização e reformas de feiras;1.000;m2;300.000,00
+248;Washington Mesquita;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Execução de reforma e cobertura da feira;5.000;m2;1.000.000,00
+249;Washington Mesquita;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Construção de PEC;500;m2;500.000,00
+250;Washington Mesquita;SE Obras;Energia;Não é evento;Energia Elétrica;DF;Ampliação do sistema de energia elétrica;10;m;200.000,00
+251;Washington Mesquita;AR Taguatinga;Transporte;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Implantação de ciclovias;20;km;300.000,00
+252;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Implantação de lixeiras públicas;1.000;m2;300.000,00
+253;Washington Mesquita;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio ao calendário de eventos;30;evento;600.000,00
+254;Washington Mesquita;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio à realização de eventos culturais;100;evento;1.600.000,00
+255;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Recuperação de redes de drenagem de águas pluviais;3.000;m2;300.000,00
+256;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Obras de infra-estrutura e urbanização;5.000;m2;1.200.000,00
+257;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Recuperação e reforma de praças e parques;1.000;m2;1.000.000,00
+258;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Recuperação de calçadas e implantação de acessibilidade;1.000;m2;600.000,00
+259;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Instalação de placas e sinalização de endereçamento;500;m2;450.000,00
+260;Washington Mesquita;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Obras de tratamento de erosões;500;m2;440.000,00
+261;Chico Leite;AR Guará;Cultura;Não é evento;Infra-Estrutura urbana;X-Guará;Construção de espaço cultural;1;centro;500.000,00
+262;Chico Leite;AR Taguatinga;Desporto e Lazer;Não é evento;Desporto Comunitário;III-Taguatinga;Construção de campo de futebol society na QNM 38/40;1;quadra;200.000,00
+263;Chico Leite;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Recapeamento asfáltico das quadras da QSF;5.000;m2;400.000,00
+264;Chico Leite;AR Taguatinga;Cultura;Não é evento;Difusão cultural;III-Taguatinga;Apoio às atividades do Instituto Brasileiro de Integração - IBI;25.000;pessoa;300.000,00
+265;Chico Leite;AR Taguatinga;Comércio e Serviços;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Construção de Centro de Comercialização de Economia Solidária;1;feira;300.000,00
+266;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;XIV-São Sebastião;Apoio às atividades da Prefeitura Comunitária do Bosque;5.000;pessoa;300.000,00
+267;Chico Leite;AR São Sebastião;Desporto e Lazer;Não é evento;Desporto Comunitário;XIV-São Sebastião;Apoio à Associação Recreativa Desportiva - AJAX;3.000;pessoa;100.000,00
+268;Chico Leite;AR Guará;Cultura;Não é evento;Difusão cultural;X-Guará;Apoio ao projeto Cinema Voador;4.000;pessoa;200.000,00
+269;Chico Leite;AR Guará;Cultura;Não é evento;Difusão cultural;X-Guará;Apoio ao projeto de incentivo à leitura no Guará;3.000;pessoa;300.000,00
+270;Chico Leite;AR Guará;Cultura;Não é evento;Difusão cultural;X-Guará;Apoio a projetos culturais;10.000;pessoa;400.000,00
+271;Dr Charles;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de urbanização;0;Unidade não informada;400.000,00
+272;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;II-Gama;Apoio às atividades sociais do Grupo Transas e Tranças;2.000;pessoa;150.000,00
+273;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;II-Gama;Apoio às atividades sociais da Associação Sonarte;2.000;pessoa;150.000,00
+274;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;II-Gama;Apoio às atividades sociais do Grupo Cozinha Cultural;2.000;pessoa;150.000,00
+275;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;XIX-Candangolândia;Apoio às atividades sociais da Associação Aquarela da Candangolândia;3.000;pessoa;150.000,00
+276;Chico Leite;AR Cruzeiro;Desporto e Lazer;Não é evento;Desporto Comunitário;XI-Cruzeiro;Reforma e manutenção das quadras poliesportivas na 1205/1405 e na 10 da Praça Gavião;200;m2;300.000,00
+277;Chico Leite;AR Recanto das Emas;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;XV-Recanto das Emas;Apoio às atividades da Associação Aika;4.000;pessoa;100.000,00
+278;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;XIII-Santa Maria;Apoio às atividades sociais do Instituto Voz Ativa;1.000;pessoa;100.000,00
+279;Chico Leite;AR Recanto das Emas;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;XV-Recanto das Emas;Apoio às atividades sociais do Grupo Integração;10.000;pessoa;100.000,00
+280;Chico Leite;AR Cruzeiro;Desporto e Lazer;Não é evento;Desporto Comunitário;XI-Cruzeiro;Apoio às atividades de inclusão social do Ajax Futsal;300;pessoa;150.000,00
+281;Chico Leite;AR Recanto das Emas;Desporto e Lazer;Não é evento;Desporto Comunitário;XV-Recanto das Emas;Cobertura da quadra poliesportiva da quadra 114;1.000;pessoa;100.000,00
+282;Rôney Nemer;AR Núcleo Bandeirante;Urbanismo;Não é evento;Infra-Estrutura urbana;VIII-Núcleo Bandeirante;Execução de obras de urbanização;200.000;m2;150.000,00
+283;Rôney Nemer;AR Riacho Fundo I;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Execução de obras de urbanização;200.000;m2;150.000,00
+284;Rôney Nemer;AR Riacho Fundo II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Execução de obras de urbanização;200.000;m2;150.000,00
+285;Rôney Nemer;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Execução de obras de urbanização;200.000;m2;300.000,00
+286;Rôney Nemer;AR Candangolândia;Urbanismo;Não é evento;Infra-Estrutura urbana;XIX-Candangolândia;Execução de obras de urbanização;200.000;m2;150.000,00
+287;Rôney Nemer;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio às atividades socioculturais;60;evento;3.490.000,00
+288;Rôney Nemer;SE Esporte;Desporto e Lazer;Evento;Desporto de rendimento;DF;Apoio ao evento Capital Fight - MMA;1;evento;200.000,00
+289;Rôney Nemer;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Execução de obras de urbanização;200.000;m2;150.000,00
+290;Rôney Nemer;AGEFIS;Administração;Não é evento;Tecnologia da Informação;DF;Gestão da Informação e dos Sistemas de TI;2;ação;280.000,00
+291;Rôney Nemer;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à Festa da Ermida Dom Bosco;1;evento;100.000,00
+292;Rôney Nemer;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização;200.000;m2;150.000,00
+293;Rôney Nemer;AR São Sebastião;Urbanismo;Não é evento;Infra-Estrutura urbana;XIV-São Sebastião;Execução de obras de urbanização;200.000;m2;150.000,00
+294;Rôney Nemer;AR Paranoá;Urbanismo;Não é evento;Infra-Estrutura urbana;VII-Paranoá;Execução de obras de urbanização;200.000;m2;150.000,00
+295;Rôney Nemer;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Execução de obras de edificação;20.000;m2;1.000.000,00
+296;Rôney Nemer;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Execução de obras de urbanização;200.000;m2;1.500.000,00
+297;Rôney Nemer;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio às atividades culturais do GRES Capela Imperial;1;evento;100.000,00
+298;Rôney Nemer;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio às atividades culturais do GRES Unidos da Vila Paranoá;1;evento;230.000,00
+299;Rôney Nemer;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio ao evento Via Sacra ao Vivo de Planaltina;1;evento;100.000,00
+300;Rôney Nemer;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Execução de obras de urbanização;200.000;m2;150.000,00
+301;Rôney Nemer;AR Recanto das Emas;Cultura;Evento;Difusão cultural;XV-Recanto das Emas;Apoio à Festa do Padroeiro do Recanto das Emas;1;evento;100.000,00
+302;Rôney Nemer;AR Recanto das Emas;Cultura;Evento;Difusão cultural;XV-Recanto das Emas;Apoio à Festa do Padroeiro São José Operário;1;evento;100.000,00
+303;Rôney Nemer;AR Brasília;Cultura;Evento;Difusão cultural;I-Plano Piloto;Apoio à Festa da Padroeira Nossa Senhora de Fátima na Igrejinha;1;evento;100.000,00
+304;Rôney Nemer;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio à Via Sacra de Taguatinga;1;evento;100.000,00
+305;Rôney Nemer;AR Ceilândia;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à Via Sacra de Ceilândia;1;evento;200.000,00
+306;Rôney Nemer;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Festa do Divino Espírito Santo em Planaltina;1;evento;100.000,00
+307;Rôney Nemer;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio ao evento cultural cristão - Via Sacra - Paróquia Sagrada Família;1;evento;100.000,00
+308;Rôney Nemer;AR Recanto das Emas;Cultura;Evento;Difusão cultural;XV-Recanto das Emas;Apoio à Paixão de Cristo ao vivo (Via Sacra);1;evento;100.000,00
+309;Rôney Nemer;AR Sobradinho;Urbanismo;Não é evento;Infra-Estrutura urbana;V-Sobradinho;Execução de obras de urbanização;200.000;m2;150.000,00
+310;Rôney Nemer;AR SCIA (Estrutural);Urbanismo;Não é evento;Infra-Estrutura urbana;XXV-SCIA (Estrutural);Execução de obras de urbanização;200.000;m2;150.000,00
+311;Rôney Nemer;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Execução de obras de urbanização;200.000;m2;150.000,00
+312;Rôney Nemer;AR Park Way;Urbanismo;Não é evento;Infra-Estrutura urbana;XXIV-Park Way;Execução de obras de urbanização;200.000;m2;150.000,00
+313;Rôney Nemer;AR Fercal;Urbanismo;Não é evento;Infra-Estrutura urbana;XXXI-Fercal;Execução de obras de urbanização;200.000;m2;300.000,00
+314;Rôney Nemer;AR Sobradinho II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Execução de obras de urbanização;200.000;m2;150.000,00
+315;Rôney Nemer;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de urbanização;200.000;m2;300.000,00
+316;Rôney Nemer;AR Planaltina;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Execução de obras de urbanização;200.000;m2;150.000,00
+317;Rôney Nemer;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Execução de obras de urbanização;200.000;m2;150.000,00
+318;Rôney Nemer;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Construção de PEC;50.000;m2;2.300.000,00
+319;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio e promoção de diversas atividades culturais nas diversas R.A. do DF;1;evento;1.750.000,00
+320;Dr Charles;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Implantação de calçada na Rua da Misericórdia;1;área;150.000,00
+321;Dr Charles;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Implantação de PEC em frente à Chácara 65;1;área;150.000,00
+322;Dr Charles;AR Vicente Pires;Saúde;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Construção de posto de saúde em Vicente Pires;1;área;50.000,00
+323;Dr Charles;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Implantação de vias ligando a Rua da Misericórdia à Rua das Palmeiras;1;pavimentação;50.000,00
+324;Dr Charles;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Implantação de escada rolante no Shopping Popular da Ceilândia;1;Unidade não informada;150.000,00
+325;Dr Charles;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Implantação de PEC;1;área;150.000,00
+326;Dr Charles;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Execução de obras de urbanização;1;área;450.000,00
+327;Dr Charles;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Construção de quadra poliesportiva;1;quadra;150.000,00
+328;Dr Charles;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Implantação de PEC;1;área;150.000,00
+329;Dr Charles;AR Ceilândia;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio e promoção de atividades culturais;1;evento;200.000,00
+330;Dr Charles;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio e promoção de atividades culturais;1;evento;350.000,00
+331;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;V-Sobradinho;Apoio às atividades do Unisocial - Instituto Universal de Educação e Promoção Social;1.000;pessoa;200.000,00
+332;Chico Leite;SE Educação;Educação;Não é evento;Educação Infantil;IX-Ceilândia;Construção de creche no Setor O e na QNR;1.000;m2;625.000,00
+333;Chico Leite;SEDEST;Assistência Social;Não é evento;Dir. Individuais, Coletivos;I-Plano Piloto;Apoio à Casa do Ceará;1.000;pessoa;600.000,00
+334;Chico Leite;AR Ceilândia;Desporto e Lazer;Não é evento;Desporto Comunitário;IX-Ceilândia;Construção de campo de futebol society na QNP 15 e na QNN 15;2.000;m2;400.000,00
+335;Chico Leite;SE Governo;Cultura;Não é evento;Difusão cultural;DF;Apoio à formação de professores da Rede Pública;3.000;pessoa;300.000,00
+336;Chico Leite;FEPECS;Educação;Não é evento;Ensino Superior;I-Plano Piloto;Aquisição de livros didáticos para a biblioteca;1.000;pessoa;300.000,00
+337;Chico Leite;AR Ceilândia;Cultura;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Construção do Centro Cultural - Segunda Etapa;2.000;m2;300.000,00
+338;Chico Leite;AR Park Way;Desporto e Lazer;Não é evento;Lazer;XXIV-Park Way;Construção de campo da grama sintética na Vargem Bonita;2.000;m2;200.000,00
+339;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;IV-Brazlândia;Apoio às atividades do IC-BSB Instituto Cultural Black Spin Breakers;1.000;pessoa;150.000,00
+340;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;IX-Ceilândia;Apoio às atividades do Projeto Estúdio Escola;1.000;pessoa;275.000,00
+341;Dr Charles;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização;1;área;300.000,00
+342;Eliana Pedrosa;TCB;Transporte;Não é evento;Transporte rodoviário;VI-Planaltina;Construção de Terminal rodoviário no Arapoanga;1;terminal;500.000,00
+343;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Pavimentação Vicinal 555 Incra 8;1;pavimentação;500.000,00
+344;Eliana Pedrosa;TCB;Transporte;Não é evento;Transporte rodoviário;XIII-Santa Maria;Construção de Terminal rodoviário;1;terminal;500.000,00
+345;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;IX-Ceilândia;Construção de creche Condomínio Privê;1;creche;300.000,00
+346;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Desporto Comunitário;IV-Brazlândia;Construção de campo de futebol gramado com pista de atletismo;1;quadra;100.000,00
+347;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Desporto Comunitário;IX-Ceilândia;Construção de campo de futebol society sintético na qd 24/26 Guariroba;1;quadra;150.000,00
+348;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;V-Sobradinho;Construção de creche na Vila Rabelo Qd 01;1;creche;200.000,00
+349;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;XII-Samambaia;Construção de creches para moradores das qd 623, 423, 223;0;creche;300.000,00
+350;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Construção de via entre a escola normal/SEST/SENAT;1;pavimentação;300.000,00
+351;Eliana Pedrosa;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Apoio ao projeto "Time Brasília Paralímpico";1;evento;300.000,00
+352;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Desporto Comunitário;V-Sobradinho;Construção de quadra poliesportiva Vila Basevi;1;quadra;200.000,00
+353;Eliana Pedrosa;Fundo de Saúde;Saúde;Não é evento;Ass. Hospitalar;XIV-São Sebastião;Construção Hospital São Sebastião;2.000;m2;1.000.000,00
+354;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;V-Sobradinho;Drenagem pluvial Av. São Francisco Grande Colorado;2.000;m2;200.000,00
+355;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Recapeamento de asfalto nova QNL com quebra molas;1.000;m2;300.000,00
+356;Eliana Pedrosa;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio ao projeto audiovisual "Fazer para Ver";1;evento;150.000,00
+357;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Drenagem pluvial ;2.000;m2;300.000,00
+358;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Pavimentação da via ligação Casa Grande a DF 180;1;pavimentação;500.000,00
+359;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;XXV-SCIA (Estrutural);Construção de feira permanente SCIA/Estrutural;1;feira;200.000,00
+360;Eliana Pedrosa;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Construção de PEC;700;m2;1.610.000,00
+361;Eliana Pedrosa;SE Trabalho;Trabalho;Não é evento;Trabalho, emprego, renda;DF;Apoio ao projeto "Mundo do Trabalho das Mulheres" ;120;pessoa;180.000,00
+362;Eliana Pedrosa;SE Cultura;Cultura;Evento;Difusão cultural;II-Gama;Apoio ao Arraiá do Formigão;1;evento;100.000,00
+363;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;IX-Ceilândia;Construção de creche no Setor O - Expansão;1;creche;300.000,00
+364;Eliana Pedrosa;DFTrans;Transporte;Não é evento;Infra-Estrutura urbana;DF;Construção de abrigos para passageiros;1.000;m2;500.000,00
+365;Eliana Pedrosa;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;DF;Apoio à APAE-DF;0;Unidade não informada;240.000,00
+366;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;XXVIII-Itapoã;Construção de creche;1;creche;200.000,00
+367;Eliana Pedrosa;Fundo de Saúde;Saúde;Não é evento;Atenção básica à saúde;IV-Brazlândia;Construção do posto de saúde Incra 7;2.000;m2;300.000,00
+368;Eliana Pedrosa;SE Segurança;Segurança Pública;Não é evento;Policiamento;II-Gama;Instalação de câmeras de monitoramento;20;equipamento;400.000,00
+369;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;XXI-Riacho Fundo II;Construção de creche;1;creche;200.000,00
+370;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Básica;XV-Recanto das Emas;Construção de auditório na CEM 111;2.000;m2;300.000,00
+371;Eliana Pedrosa;SE Educação;Educação;Não é evento;Educação Infantil;XXIX-S.IA;Construção de creche;2.000;m2;200.000,00
+372;Eliana Pedrosa;SE Cultura;Cultura;Evento;Difusão cultural;II-Gama;Apoio ao projeto "Arraiá Gamadão";1;evento;200.000,00
+373;Eliana Pedrosa;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Construção de passarela da DF 001 à DF 250;1;passarela;300.000,00
+374;Eliana Pedrosa;SE Cultura;Cultura;Evento;Difusão cultural;I-Plano Piloto;Apoio à Via Sacra de surdos;1;evento;120.000,00
+375;Eliana Pedrosa;Fundo de Saúde;Saúde;Não é evento;Ass. Hospitalar;XV-Recanto das Emas;Construção do Hospital;2.000;m2;1.000.000,00
+376;Eliana Pedrosa;Fundo Anti-Drogas Funpad;Assistência Social;Não é evento;Ass. Comunitária;DF;Apoio ao projeto Salve a Si;90;dependente;300.000,00
+377;Eliana Pedrosa;AR SCIA;Desporto e Lazer;Evento;Lazer;XXV-SCIA;Apoio ao projeto "Resgate uma Criança";1;evento;250.000,00
+378;Eliana Pedrosa;AR Brazlândia;Urbanismo;Não é evento;Desporto de rendimento;IV-Brazlândia;Reforma do estádio Chapadinha;1;estádio;300.000,00
+379;Eliana Pedrosa;AR Brazlândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Ampliação da feira na Vila São José;800;m2;300.000,00
+380;Eliana Pedrosa;AR Brazlândia;Cultura;Evento;Difusão cultural;IV-Brazlândia;Apoio à festa do leite de curralinho;1;evento;100.000,00
+381;Eliana Pedrosa;AR Itapoã;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Apoio festividades Padroeira Itapoã;1;evento;100.000,00
+382;Dr Charles;AR Santa Maria;Cultura;Evento;Difusão cultural;XIII-Santa Maria;Apoio e promoção de atividades culturais;1;evento;150.000,00
+383;Chico Leite;AR Samambaia;Cultura;Não é evento;Difusão cultural;XII-Samambaia;Apoio às atividades sociais da Associação Socorro dos Anjos;500;pessoa;100.000,00
+384;Chico Leite;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio ao projeto Reggae A Paz nas escolas Instituto Filhos da Vida;500;pessoa;200.000,00
+385;Chico Leite;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Construção de calçadas;10.000;m2;1.400.000,00
+386;Chico Leite;AR Planaltina;Saneamento;Não é evento;Saneamento básico;VI-Planaltina;Implantação de saneamento básico nos condomínios Cachoeira e Nosso Lar;2.000;m ;300.000,00
+387;Chico Leite;SE Obras;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Implantação de PEC;7;PEC;700.000,00
+388;Chico Leite;CEAJUR;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;DF;Concessão de bolsas de estágio na Defensoria Pública;100;bolsa;500.000,00
+389;Chico Leite;SE Obras;Energia;Não é evento;Energia Elétrica;DF;Ampliação da iluminação pública na Octogonal Sul e na Ceilândia;3.000;m;600.000,00
+390;Chico Leite;SE Criança;Direitos da Cidadania;Não é evento;Dir. Individuais, Coletivos;VII-Paranoá;Apoio às atividades promovidas pela Resgate da Vida;500;pessoa;200.000,00
+391;Chico Leite;Instituto do Meio Ambiente;Gestão Ambiental;Não é evento;Preservação ambiental;DF;Revitalização do Parque de Águas Claras e do Parque Ecológico no Park Way;2;parque;1.300.000,00
+392;Chico Leite;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Obras de infra-estrutura e urbanização;10.000;m2;400.000,00
+393;Dr Charles;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Execução de obras de urbanização;1;área;450.000,00
+394;Dr Charles;AR Vicente Pires;Cultura;Evento;Difusão cultural;XXX-Vicente Pires;Aniversário da cidade;1;evento;150.000,00
+395;Dr Charles;AR São Sebastião;Cultura;Evento;Difusão cultural;XIV-São Sebastião;Feira cultural de São Sebastião;1;evento;150.000,00
+396;Dr Charles;AR Núcleo Bandeirante;Urbanismo;Não é evento;Infra-Estrutura urbana;VIII-Núcleo Bandeirante;Execução de obras de urbanização;1;área;450.000,00
+397;Dr Charles;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Execução de obras de urbanização;1;área;950.000,00
+398;Evandro Garla;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Implantação de infra-estrutura esportiva - PEC - Qd 409/609;1;PEC;50.000,00
+399;Evandro Garla;AR Samambaia;Desporto e Lazer;Não é evento;Desporto Comunitário;XII-Samambaia;Iluminação da quadra de esporte - futsal QR 323;1;espaço;70.000,00
+400;Joe Valle;SE Agricultura;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Apoio à construção de PEC e parque para as crianças;300;espaço;500.000,00
+401;Joe Valle;SE Educação;Educação;Não é evento;Ensino Fundamental;DF;Apoio à reforma geral e ampliação das unidades de ensino;1.000;m2;899.200,00
+402;Evandro Garla;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Reforma de quadras poliesportivas;2.000;m2;700.000,00
+403;Evandro Garla;SE Casa Civil;Direitos da Cidadania;Não é evento;Ass. Ao Idoso;DF;Assistência ao Idoso;0;Unidade não informada;300.000,00
+404;Evandro Garla;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Construção de coberturas de quadras poliesportivas;2.000;m2;500.000,00
+405;Evandro Garla;SE Esporte;Desporto e Lazer;Evento;Desporto Comunitário;DF;Realização do circuito de corridas;10;evento;500.000,00
+406;Evandro Garla;SE Esporte;Desporto e Lazer;Evento;Desporto Comunitário;DF;Realização do Programa Esporte Solidário;10;evento;1.000.000,00
+407;Evandro Garla;Instituto do Meio Ambiente;Gestão Ambiental;Não é evento;Preservação ambiental;II-Gama;Revitalização do Parque Recreativo do Gama (Prainha);1;parque;300.000,00
+408;Evandro Garla;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Apoio ao Projeto Compete Brasília;15;projeto;500.000,00
+409;Evandro Garla;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Construção de campos sintéticos;2.000;m2;1.500.000,00
+410;Evandro Garla;SE Casa Civil;Direitos da Cidadania;Não é evento;Ass. Ao Idoso;DF;Construção de Centros de Convivência de Idosos;10.000;m2;1.315.000,00
+411;Evandro Garla;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Construção de quadras poliesportivas;2.000;m2;800.000,00
+412;Evandro Garla;SE Casa Civil;Direitos da Cidadania;Não é evento;Ass. Ao Idoso;DF;Ampliação e Reestruturação dos Centros de Convivência de Idosos;10.000;m2;1.050.000,00
+413;Evandro Garla;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio a atividades culturais;10;evento;400.000,00
+414;Evandro Garla;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Realização da Festa das Águas;1;evento;250.000,00
+415;Evandro Garla;SE Turismo;Comércio e Serviços;Evento;Turismo;DF;Apoio ao SEBRAE para a realização da Feira do Empreendedor;1;projeto;300.000,00
+416;Evandro Garla;PMDF;Segurança Pública;Não é evento;Policiamento;DF;Construção do Centro Básico de Treinamento para Ações de Alto Risco ;1;quartel;220.000,00
+417;Evandro Garla;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à Marcha para Jesus;1;evento;150.000,00
+418;Evandro Garla;AR Recanto das Emas;Energia;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Ampliação da rede de iluminação pública;1.500;m;300.000,00
+419;Evandro Garla;SE Governo;Direitos da Cidadania;Evento;Ass. Ao Idoso;DF;Dia Nacional do Idoso;1;evento;300.000,00
+420;Evandro Garla;SE Criança;Assistência Social;Não é evento;Ass. À Criança e Adolescente;DF;Implantação do Plano de Combate à Prostituição Infantil;0;Unidade não informada;200.000,00
+421;Evandro Garla;SE Cultura;Cultura;Evento;Difusão cultural;DF;Aniversário de Brasília - Palco Gospel;1;evento;200.000,00
+422;Evandro Garla;SE Trabalho;Trabalho;Não é evento;Formação de RH;DF;Apoio a Projeto de Qualificação Social e Profissional - Inglês;0;Unidade não informada;230.000,00
+423;Evandro Garla;SE Esporte;Desporto e Lazer;Evento;Desporto Comunitário;DF;Apoio ao Programa Compete Brasília Paraolímpico;10;evento;500.000,00
+424;Evandro Garla;AR Riacho Fundo II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Construção da Feira Permanente;1;feira;300.000,00
+425;Evandro Garla;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Implantação de infra-estrutura esportiva - PEC - Qd 827/829/1029;3;PEC;150.000,00
+426;Evandro Garla;PCDF;Segurança Pública;Não é evento;Administração Geral;DF;Reforma e ampliação do Instituto de Identificação da PCDF;1;prédio;300.000,00
+427;Evandro Garla;CBMDF;Cultura;Evento;Difusão cultural;DF;Apoio ao aniversário do Corpo de Bombeiros;1;evento;15.000,00
+428;Evandro Garla;AR Guará;Energia;Não é evento;Infra-Estrutura urbana;X-Guará;Ampliação da rede de iluminação pública;1.500;m;500.000,00
+429;Evandro Garla;DFTrans;Transporte;Não é evento;Transporte coletivo;DF;Construção de abrigos para passageiros de ônibus;10;ponto;300.000,00
+430;Evandro Garla;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Execução de obras de infra-estrutura urbana;10.000;m2;300.000,00
+431;Robério Negreiros;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de urbanização;100.000;m2;4.965.000,00
+432;Robério Negreiros;SEDEST;Assistência Social;Não é evento;Ass. Ao Portador de Deficiência;III-Taguatinga;Apoio à realização das ações sociais itinerantes odontológicas para pessoas com deficiência;2.000;família;300.000,00
+433;Robério Negreiros;SE Cultura;Cultura;Evento;Difusão cultural;XV-Recanto das Emas;Apoio ao Projeto Recanto Sem Fonteiras - FestGospel;1;evento;150.000,00
+434;Robério Negreiros;SEDEST;Assistência Social;Não é evento;Ass. Ao Portador de Deficiência;DF;Atendimento e Capacitação de pessoas com deficiência;3.000;pessoa;400.000,00
+435;Robério Negreiros;SEDEST;Assistência Social;Não é evento;Ass. Ao Portador de Deficiência;DF;Apoio a projetos sociais do movimento Orgulho Autista Brasil;2;projeto;120.000,00
+436;Robério Negreiros;AR Paranoá;Urbanismo;Não é evento;Infra-Estrutura urbana;VII-Paranoá;Execução de obras de urbanização;100.000;m2;5.500.000,00
+437;Robério Negreiros;AR Paranoá;Cultura;Evento;Difusão cultural;VII-Paranoá;Promoção de atividades culturais  ;20;evento;500.000,00
+438;Robério Negreiros;AR Paranoá;Urbanismo;Não é evento;Serviços urbanos;VII-Paranoá;Manutenção de áreas urbanizadas e ajardinadas;50.000;m2;400.000,00
+439;Robério Negreiros;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;DF;Apoio à realização das ações sociais itinerantes odontológicas;5.000;família;500.000,00
+440;Robério Negreiros;AR Paranoá;Urbanismo;Não é evento;Infra-Estrutura urbana;VII-Paranoá;Reforma de prédios e próprios;1.000;m2;200.000,00
+441;Robério Negreiros;SEDEST;Assistência Social;Não é evento;Ass. Ao Portador de Deficiência;I-Plano Piloto;Apoio às atividades do Centro Educacional CEAL;2.000;pessoa;65.000,00
+442;Robério Negreiros;AR Paranoá;Cultura;Evento;Difusão cultural;VII-Paranoá;Comemoração do aniversário da RA Paranoá;1;evento;200.000,00
+443;Robério Negreiros;AR Paranoá;Desporto e Lazer;Não é evento;Desporto Comunitário;VII-Paranoá;Comemoração do aniversário da RA Paranoá;10;projeto;200.000,00
+444;Liliane Roriz;AR Riacho Fundo;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Construção de quadra poliesportiva;200;m2;150.000,00
+445;Liliane Roriz;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Realização de obras de infra-estrutura e urbanização;30.000;m2;1.500.000,00
+446;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos culturais;12;evento;150.000,00
+447;Liliane Roriz;AR Set. Ind. & Abast.;Transporte;Não é evento;Infra-Estrutura urbana;XXIX-S.IA;Construção de abrigos para passageiros de ônibus;16.000;m2;150.000,00
+448;Liliane Roriz;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Realização de obras de infra-estrutura e urbanização;10.000;m2;600.000,00
+449;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do evento "Meus 15 anos - Baile de Debutantes";12;evento;50.000,00
+450;Liliane Roriz;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Realização de obras de infra-estrutura e urbanização;20.000;m2;900.000,00
+451;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;VII-Paranoá;Apoio às atividades culturais da Quadrilha Triscou Queimou;1;evento;25.000,00
+452;Liliane Roriz;AR Núcleo Bandeirante;Urbanismo;Não é evento;Infra-Estrutura urbana;VIII-Núcleo Bandeirante;Realização de obras de infra-estrutura e urbanização;20.000;m2;900.000,00
+453;Liliane Roriz;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;XIV-São Sebastião;Apoio ao Projeto Social Mão de Mulher;100;família;15.000,00
+454;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;VII-Paranoá;Apoio às atividades do GRES Unidos da Vila Paranoá;1;evento;15.000,00
+455;Liliane Roriz;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Realização de obras de infra-estrutura e urbanização;30.000;m2;1.440.000,00
+456;Liliane Roriz;AR Núcleo Bandeirante;Urbanismo;Não é evento;Infra-Estrutura urbana;VIII-Núcleo Bandeirante;Execução de obras de acessibilidade;10.000;m2;150.000,00
+457;Liliane Roriz;AR Itapoã;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Execução de ajardinamento;5.000;m2;150.000,00
+458;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao evento Quadrilha Xodó de Cristo;1;evento;20.000,00
+459;Liliane Roriz;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;IV-Brazlândia;Apoio ao Projeto Social Jardim de Infância Semeando;100;família;15.000,00
+460;Liliane Roriz;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;VII-Paranoá;Apoio ao Projeto Social Consolidação da Associação de Artesanato do Paranoá;50;família;10.000,00
+461;Liliane Roriz;AR Santa Maria;Urbanismo;Não é evento;Desporto Comunitário;XIII-Santa Maria;Construção de quadra poliesportiva;200;m2;150.000,00
+462;Liliane Roriz;AR Recanto das Emas;Energia;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Ampliação da rede de iluminação pública;10.000;m;500.000,00
+463;Liliane Roriz;SEDEST;Assistência Social;Não é evento;Ass. Comunitária;VII-Paranoá;Apoio ao Projeto Social da OSCIP Resgate da Vida;50;família;15.000,00
+464;Liliane Roriz;AR Riacho Fundo;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Realização de obras de infra-estrutura e urbanização;20.000;m2;900.000,00
+465;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao Festival de Quadrilhas Juninas nas cidades do Paranoá e de Itapoã;2;evento;100.000,00
+466;Liliane Roriz;AR São Sebastião;Urbanismo;Não é evento;Infra-Estrutura urbana;XIV-São Sebastião;Instalação de lixeiras em vias públicas;15.000;m2;150.000,00
+467;Liliane Roriz;AR Set. Ind. & Abast.;Urbanismo;Não é evento;Infra-Estrutura urbana;XXIX-S.IA;Realização de obras de infra-estrutura e urbanização;20.000;m2;900.000,00
+468;Liliane Roriz;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Realização de obras de infra-estrutura e urbanização;30.000;m2;1.500.000,00
+469;Liliane Roriz;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;XIV-São Sebastião;Apoio ao projeto Criança no Esporte;1;projeto;100.000,00
+470;Liliane Roriz;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Instalação de placas de endereçamento;200;m2;150.000,00
+471;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do evento Encontro de Contadores de Histórias da Ass. Amigos das Histórias;1;evento;15.000,00
+472;Liliane Roriz;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Execução de ajardinamento;5.000;m2;150.000,00
+473;Liliane Roriz;AR São Sebastião;Urbanismo;Não é evento;Infra-Estrutura urbana;XIV-São Sebastião;Realização de obras de infra-estrutura e urbanização;33.000;m2;1.750.000,00
+474;Liliane Roriz;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;VII-Paranoá;Apoio ao projeto político pedagógico da Liga Desportiva do Paranoá;1;projeto;105.000,00
+475;Liliane Roriz;AR Itapoã;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVIII-Itapoã;Realização de obras de infra-estrutura e urbanização;7.000;m2;450.000,00
+476;Liliane Roriz;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Execução de obras de acessibilidade;10.000;m2;150.000,00
+477;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Apoio ao festival de Cultura Popular do GRAPI;1;evento;25.000,00
+478;Liliane Roriz;SE Cultura;Cultura;Evento;Difusão cultural;DF;Realização do Filme Mudança Capital;1;evento;150.000,00
+479;Patrício;SE Educação;Educação;Não é evento;Ensino Fundamental;DF;Ampliação de unidades de ensino fundamental;100.000;m2;1.500.000,00
+480;Patrício;SE Segurança;Segurança Pública;Não é evento;Policiamento;DF;Construção de quarteis;50.000;m2;2.000.000,00
+481;Patrício;SE Educação;Educação;Não é evento;Educação Infantil;DF;Construção de creches públicas;20.000;m2;500.000,00
+482;Patrício;Fundo de Saúde;Saúde;Não é evento;Ass. Hospitalar;DF;Ampliação de unidades básicas de saúde;50.000;m2;1.000.000,00
+483;Patrício;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de urbanização;20.000;m2;500.000,00
+484;Patrício;PMDF;Segurança Pública;Não é evento;Policiamento;DF;Reforma de Quarteis;20.000;m2;500.000,00
+485;Patrício;AR Brazlândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Execução de obras de urbanização;20.000;m2;500.000,00
+486;Patrício;AR Planaltina;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Execução de obras de urbanização;20.000;m2;500.000,00
+487;Patrício;CBMDF;Segurança Pública;Não é evento;Policiamento;DF;Reforma de quarteis;20.000;m2;500.000,00
+488;Patrício;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização;20.000;m2;500.000,00
+489;Patrício;Instituto do Meio Ambiente;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Revitalização do Parque Recreativo do Gama (Prainha);1;parque;300.000,00
+490;Patrício;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Revitalização de calçadas;20.000;parque;500.000,00
+491;Patrício;AR São Sebastião;Urbanismo;Não é evento;Infra-Estrutura urbana;XIV-São Sebastião;Execução de obras de urbanização;20.000;m2;500.000,00
+492;Patrício;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Execução de obras de urbanização;20.000;m2;500.000,00
+493;Patrício;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de urbanização;300.000;m2;2.700.000,00
+494;Patrício;AR Sobradinho;Urbanismo;Não é evento;Infra-Estrutura urbana;V-Sobradinho;Execução de obras de urbanização;20.000;m2;500.000,00
+495;Patrício;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Execução de obras de urbanização;20.000;m2;500.000,00
+496;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;IV-Brazlândia;Apoio à realização de eventos culturais LGBT do Grupo LGBT de Brazlândia;1;evento;30.000,00
+497;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio a projetos e eventos da Cultura e Religiosidade Afrobrasileira da Federação de Umbanda (...);1;evento;30.000,00
+498;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;I-Plano Piloto;Apoio à realização de eventos culturais da Associação de Moradores da Vila Planalto;2;evento;150.000,00
+499;Dr Charles;AR Riacho Fundo;Desporto e Lazer;Evento;Lazer;XVII-Riacho Fundo I;Realização de eventos esportivos ;5;evento;125.000,00
+500;Dr Charles;AR Riacho Fundo;Desporto e Lazer;Não é evento;Desporto Comunitário;XVII-Riacho Fundo I;Reforma de quadras poliesportivas nas QN 01, 05, 10/08 e 14;2.250;m2;562.500,00
+501;Dr Charles;AR Riacho Fundo;Cultura;Evento;Difusão cultural;XVII-Riacho Fundo I;Realização de eventos culturais;5;evento;525.000,00
+502;Dr Charles;AR Riacho Fundo;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Execução de obras e urbanização e estacionamentos de bloco intertravados;7.525;m2;527.500,00
+503;Dr Charles;SE Publicidade Institucional;Administração;Não é evento;Comunicação Social;DF;Publicidade e propaganda institucional;0;Unidade não informada;3.000.000,00
+504;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos culturais do Grupo Capoeira Antiga Arte;1;evento;60.000,00
+505;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio na realização do projeto "Festival de Bandas";4;evento;140.000,00
+506;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio na realização da ação Cidade Cidadã e Feira Cultural;1;evento;500.000,00
+507;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio à realização de eventos culturais LGBT da AGLS-DFE;1;evento;60.000,00
+508;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;II-Gama;Apoio à projetos culturais LGBT do Grupo Amizade LGBT do Gama;2;evento;90.000,00
+509;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;III-Taguatinga;Apoio à realização de eventos culturais;3;evento;210.000,00
+510;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;II-Gama;Apoio à realização de eventos culturais;2;evento;150.000,00
+511;Dr Charles;AR Riacho Fundo;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Reforma de praça na QN 01;1;praça;125.000,00
+512;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos culturais da Associação Grito de Liberdade;1;evento;50.000,00
+513;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;V-Sobradinho;Apoio na realização de eventos culturais do GRES Bola Preta;1;evento;50.000,00
+514;Dr Charles;AR Riacho Fundo;Urbanismo;Não é evento;Infra-Estrutura urbana;XVII-Riacho Fundo I;Construção de PEC;3;PEC;225.000,00
+515;Dr Charles;SE Cultura;Cultura;Evento;Difusão cultural;XIV-São Sebastião;Apoio à realização de eventos culturais;2;evento;140.000,00
+516;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Manutenção de áreas urbanizadas e ajardinadas;5.000;m2;200.000,00
+517;Dr Michel;AR Fercal;Cultura;Evento;Difusão cultural;XXXI-Fercal;Promoção de atividades culturais;10;evento;300.000,00
+518;Dr Michel;AR Fercal;Cultura;Evento;Difusão cultural;XXXI-Fercal;Promoção de eventos - Aniversário RA Fercal;1;evento;200.000,00
+519;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Construir Praça Pública;200;m2;300.000,00
+520;Dr Michel;AR Fercal;Urbanismo;Não é evento;Infra-Estrutura urbana;XXXI-Fercal;Manutenção de áreas urbanizadas e ajardinadas;5.000;m2;200.000,00
+521;Dr Michel;AR Sobradinho II;Cultura;Evento;Difusão cultural;XXVI-Sobradinho II;Apoio a eventos culturais;10;evento;200.000,00
+522;Dr Michel;AR Fercal;Urbanismo;Não é evento;Infra-Estrutura urbana;XXXI-Fercal;Construção de praças públicas e parques;600;m2;300.000,00
+523;Dr Michel;AR Sobradinho II;Cultura;Evento;Difusão cultural;XXVI-Sobradinho II;Promoção de eventos - Aniversário RA Sobradinho II;1;evento;250.000,00
+524;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Executar Obras de Urbanização e Infra-Estrutura;1.000;m2;1.600.000,00
+525;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Reforma e construção de Prédios Próprios;200;m2;200.000,00
+526;Dr Michel;AR Fercal;Energia;Não é evento;Energia Elétrica;XXXI-Fercal;Ampliação da rede de iluminação pública;1.000;m;150.000,00
+527;Dr Michel;AR Fercal;Desporto e Lazer;Não é evento;Desporto Comunitário;XXXI-Fercal;Construção de Quadra de Esportes ;600;m2;650.000,00
+528;Dr Michel;AR Sobradinho;Assistência Social;Não é evento;Ass. Comunitária;V-Sobradinho;Reformar o Lar São José - Casa do Candango em Sobradinho;1;centro;100.000,00
+529;Dr Michel;PCDF;Desporto e Lazer;Evento;Lazer;DF;Apoio ao Evento das Olimpíadas da PCDF;1;evento;50.000,00
+530;Dr Michel;AR Sobradinho;Urbanismo;Não é evento;Infra-Estrutura urbana;V-Sobradinho;Executar Obras de Urbanização e Infra-Estrutura;1.000;m2;800.000,00
+531;Dr Michel;AR Fercal;Urbanismo;Não é evento;Infra-Estrutura urbana;XXXI-Fercal;Implantar PEC;200;m2;300.000,00
+532;Prof. Israel Batista;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à Realização de Projetos Culturais;20;projeto;600.000,00
+533;Prof. Israel Batista;AGEFIS;Administração;Não é evento;Normatização e Fiscalização;DF;Apoio ao Serviço de Atendimento ao Público da Agefis;0;Unidade não informada;200.000,00
+534;Prof. Israel Batista;SE Educação;Educação;Não é evento;Saúde Escolar;DF;Apoio a medidas de combate ao crack em escolas públicas;0;Unidade não informada;500.000,00
+535;Prof. Israel Batista;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de urbanização;1.000;m2;500.000,00
+536;Prof. Israel Batista;SE Trabalho;Trabalho;Não é evento;Trabalho, emprego, renda;DF;Fomento à cadeia produtiva da economia criativa para a Copa de 2014;1.000;pessoa;866.000,00
+537;Prof. Israel Batista;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Apoio a eventos esportivos;5;evento;200.000,00
+538;Prof. Israel Batista;SE Cultura;Cultura;Não é evento;Difusão cultural;XII-Samambaia;Apoio à realização do Projeto Social Dançarte em Samambaia;1;projeto;100.000,00
+539;Prof. Israel Batista;SE Educação;Educação;Não é evento;Difusão cultural;DF;Implantação de bibliotecas públicas;10;biblioteca;850.000,00
+540;Prof. Israel Batista;AR Ceilândia;Desporto e Lazer;Não é evento;Desporto Comunitário;IX-Ceilândia;Reforma de espaços esportivos no P Sul;1.000;m2;150.000,00
+541;Prof. Israel Batista;AR Ceilândia;Desporto e Lazer;Não é evento;Desporto Comunitário;IX-Ceilândia;Reforma de espaços esportivos no P Norte;100;m2;150.000,00
+542;Prof. Israel Batista;SE Educação;Educação;Não é evento;Educação Básica;DF;Padronização de Escolas Públicas de Ensino Médio;6.000;m2;6.000.000,00
+543;Prof. Israel Batista;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de urbanização no P Sul;1.000;m2;350.000,00
+544;Prof. Israel Batista;SE Obras;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Implantação de espaços esportivos;1;quadra;400.000,00
+545;Prof. Israel Batista;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Execução de obras de urbanização;100;m2;300.000,00
+546;Prof. Israel Batista;SE Obras;Segurança Pública;Não é evento;Segurança Pública;DF;Reforma do Instituto de Identificação da PCDF ;0;Unidade não informada;200.000,00
+547;Prof. Israel Batista;AR Guará;Desporto e Lazer;Não é evento;Desporto Comunitário;X-Guará;Reforma de espaços esportivos;100;m2;150.000,00
+548;Prof. Israel Batista;AR Samambaia;Desporto e Lazer;Não é evento;Desporto Comunitário;XII-Samambaia;Reforma de espaços esportivos;500;m2;110.000,00
+549;Prof. Israel Batista;FEPECS;Saúde;Não é evento;Gestão Man. Serv. Estado;I-Plano Piloto;Manutenção dos Serviços Administrativos Gerais da FEPECS;0;Unidade não informada;200.000,00
+550;Prof. Israel Batista;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do projeto Cidades Culturais - Identidades Brasileiras;1;evento;254.000,00
+551;Prof. Israel Batista;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Execução de obras de urbanização;1.000;m2;300.000,00
+552;Prof. Israel Batista;SE Obras;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Implantação de Skate Parks;5;espaço;800.000,00
+553;Prof. Israel Batista;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de infra-estrutura e cercamento do Parque Ecologico - P Sul - Guariroba;100;m2;120.000,00
+554;Prof. Israel Batista;PMDF;Segurança Pública;Não é evento;Gestão Man. Serv. Estado;DF;Apoio ao Programa de Ensino Profissional a Servidores da PM;1.000;pessoa;200.000,00
+555;Dr Michel;PCDF;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Reforma do Prédio Próprio do Instituto de Identificação da PCDF ;1.000;m2;200.000,00
+556;Dr Michel;PCDF;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Reforma do Instituto de Criminalística da PCDF ;500;m2;200.000,00
+557;Dr Michel;CBMDF;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Reforma do Prédio Próprio da Banda do CBMDF;200;m2;500.000,00
+558;Dr Michel;AR Sobradinho II;Desporto e Lazer;Evento;Lazer;XXVI-Sobradinho II;Apoio a atividades esportivas;10;evento;200.000,00
+559;Dr Michel;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio às atividades artísticas e de cultura popular vinculadas a Centro de Tradições Populares;1;evento;100.000,00
+560;Dr Michel;AR Ceilândia;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à Festa do Trabalhador do P Norte;1;evento;100.000,00
+561;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Desporto Comunitário;XXVI-Sobradinho II;Construção de Campo de Futebol de Grama Sintética;1.080;m2;600.000,00
+562;Dr Michel;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Comissão Jovem Gente Como a Gente;1;evento;50.000,00
+563;Dr Michel;AR Fercal;Urbanismo;Não é evento;Infra-Estrutura urbana;XXXI-Fercal;Executar Obras de Urbanização e Infra-Estrutura;2.000;m2;3.000.000,00
+564;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Reforma da Feira Permanente;300;m2;350.000,00
+565;Dr Michel;AR Fercal;Administração;Não é evento;Gestão Man. Serv. Estado;XXXI-Fercal;Capacitação dos servidores;30;servidor;50.000,00
+566;Dr Michel;AR Sobradinho II;Energia;Não é evento;Infra-Estrutura urbana;XXVI-Sobradinho II;Ampliação da rede de iluminação pública;1.000;luminária;300.000,00
+567;Dr Michel;AR Fercal;Desporto e Lazer;Evento;Lazer;XXXI-Fercal;Promoção de atividades esportivas;10;evento;150.000,00
+568;Dr Michel;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Festa do Divino Espírito Santo em Planaltina;1;evento;100.000,00
+569;Dr Michel;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Festa de Pentecostes;1;evento;50.000,00
+570;Dr Michel;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Via Sacra;1;evento;150.000,00
+571;Dr Michel;AR Sobradinho II;Urbanismo;Não é evento;Desenvolvimento urbano;XXVI-Sobradinho II;Implantar PEC;200;m2;300.000,00
+572;Dr Michel;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao evento Encontro de Muladeiros do Planalto Central;1;evento;50.000,00
+573;Dr Michel;AR Sobradinho;Energia;Não é evento;Infra-Estrutura urbana;V-Sobradinho;Ampliação do sistema de iluminação pública;2.000;m;400.000,00
+574;Dr Michel;AR Sobradinho;Desporto e Lazer;Não é evento;Lazer;V-Sobradinho;Apoio ao Desporto e Lazer;10;evento;100.000,00
+575;Dr Michel;AR Planaltina;Urbanismo;Não é evento;Desporto Comunitário;VI-Planaltina;Construção de quadras de esportes na Escola no Núcleo Rural Bom Sucesso;200;m2;150.000,00
+576;Dr Michel;AR Sobradinho;Cultura;Evento;Difusão cultural;V-Sobradinho;Apoio a atividades culturais;10;evento;200.000,00
+577;Dr Michel;AR Planaltina;Urbanismo;Não é evento;Desporto Comunitário;VI-Planaltina;Construção da cobertura da quadra de esportes do Centro de Ensino Especial número 1;200;m2;200.000,00
+578;Dr Michel;AR Planaltina;Urbanismo;Não é evento;Desporto Comunitário;VI-Planaltina;Construção da cobertura da quadra de esportes do CEF Qd 08 do Arapoanga ;200;m2;200.000,00
+579;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização ao II Encontro de Folias do Divino de Planaltina;1;evento;250.000,00
+580;Claudio Abrantes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio às atividades do rock/Brasília;1;evento;300.000,00
+581;Claudio Abrantes;SE Agricultura;Agricultura ;Evento;Promoção da prod. Vegetal;DF;Apoio à Feira do Empreendedor 2013;1;evento;100.000,00
+582;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio a: Festival de Rock, Mostra de Teatro, Carro de Boi, Festança, Cidade Sustentável, Agrotab, Festa do Pimentão e AMIPAZ;8;evento;900.000,00
+583;Claudio Abrantes;SE Trabalho;Trabalho;Não é evento;Trabalho, emprego, renda;DF;Apoio à qualificação de intérprete de Libras;500;pessoa;250.000,00
+584;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização da Cruzada Evangelística de Planaltina;1;evento;120.000,00
+585;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio ao projeto Pau Pereira;1;evento;60.000,00
+586;Claudio Abrantes;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio a Estúdios Comunitários;7;projeto;750.000,00
+587;Claudio Abrantes;SE Esporte;Desporto e Lazer;Evento;Lazer;DF;Apoio a Eventos da Secretária de Esportes;20;projeto;250.000,00
+588;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização da Festa do Divino;1;evento;170.000,00
+589;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização da Festa de Santa Rita;1;evento;50.000,00
+590;Claudio Abrantes;AR Planaltina;Cultura;Não é evento;Difusão cultural;VI-Planaltina;Construção do Complexo Cultural da Planaltina - Casa da Cultura;9.000;m2;1.000.000,00
+591;Claudio Abrantes;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio às atividades da Orquestra Sinfônica de Brasília;20;evento;300.000,00
+592;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização da Via Sacra;1;evento;350.000,00
+593;Claudio Abrantes;AR Planaltina;Desporto e Lazer;Não é evento;Lazer;VI-Planaltina;Implantação de PEC;8;PEC;300.000,00
+594;Claudio Abrantes;AR Sobradinho;Cultura;Evento;Difusão cultural;V-Sobradinho;Apoio à realização da Via Sacra;1;evento;150.000,00
+595;Claudio Abrantes;Fundo de Saúde;Saúde;Não é evento;Atenção básica à saúde;VI-Planaltina;Ampliação/Construção do Centro de Saúde 05;0;Unidade não informada;150.000,00
+596;Claudio Abrantes;AR Planaltina;Desporto e Lazer;Não é evento;Lazer;VI-Planaltina;Construção de campos sintéticos;33.000;m2;1.800.000,00
+597;Claudio Abrantes;SE Agricultura;Agricultura ;Não é evento;Promoção da prod. Vegetal;DF;Fomento à floricultura;100;muda;100.000,00
+598;Claudio Abrantes;SE Agricultura;Agricultura ;Não é evento;Ass. Comunitária;VI-Planaltina;Construção/reforma do Galpão Comunitário Pipiripau II;0;Unidade não informada;200.000,00
+599;Claudio Abrantes;SE Educação;Educação;Não é evento;Desporto Comunitário;VI-Planaltina;Implantação da cobertura da Quadra do Núcleo Rural São José;200;m2;250.000,00
+600;Claudio Abrantes;AR Planaltina;Desporto e Lazer;Evento;Lazer;VI-Planaltina;Apoio a atividades esportivas - Esportes radicais, campeonatos, copinha e Qualificando Espaços Públicos;5;evento;500.000,00
+601;Claudio Abrantes;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio ao cinema nas Unidades de Integração;1;projeto;200.000,00
+602;Claudio Abrantes;AR Sobradinho;Comércio e Serviços;Evento;Turismo;V-Sobradinho;Apoio à Feicotur - Feira de Indústria, Comércio e Turismo de Sobradinho;1;evento;80.000,00
+603;Claudio Abrantes;AR Planaltina;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Calçadas - Caminhadas;100;m2;800.000,00
+604;Claudio Abrantes;SE Educação;Educação;Não é evento;Ensino Fundamental;VI-Planaltina;Apoio ao CEF Arapoangas;1.000;m2;500.000,00
+605;Claudio Abrantes;AR Sobradinho;Desporto e Lazer;Evento;Lazer;V-Sobradinho;Apoio às atividades esportivas;4;evento;270.000,00
+606;Claudio Abrantes;PCDF;Segurança Pública;Não é evento;Infra-Estrutura urbana;DF;Construção da sede do Instituto de Criminalística da PCDF;2.000;m2;250.000,00
+607;Claudio Abrantes;SE Esporte;Desporto e Lazer;Não é evento;Desporto de rendimento;DF;Apoio às atividades da Liga de Judô do DF e Entorno;1;projeto;100.000,00
+608;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Cavalgada Portal Minas;1;evento;50.000,00
+609;Claudio Abrantes;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio ao Projeto Cia Nós no Bambu;1;projeto;250.000,00
+610;Claudio Abrantes;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio à produção do filme Mudança Capital;1;projeto;200.000,00
+611;Claudio Abrantes;SE Educação;Educação;Não é evento;Educação Básica;VI-Planaltina;Apoio ao CEM Stella dos Querubins;1.000;m2;450.000,00
+612;Claudio Abrantes;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Projeto Caravana da Leitura ;10;evento;100.000,00
+613;Claudio Abrantes;SE Educação;Educação;Não é evento;Educação Básica;VI-Planaltina;Apoio ao CEM 01;1.000;m2;600.000,00
+614;Claudio Abrantes;AR Planaltina;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização da Festa de São Vicente de Paulo;1;evento;50.000,00
+615;Olair Francisco;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Execução de obras de urbanização e infraestrutura;50.000;m2;3.100.000,00
+616;Olair Francisco;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização e infraestrutura;30.000;m2;900.000,00
+617;Olair Francisco;AR Santa Maria;Cultura;Evento;Difusão cultural;XIII-Santa Maria;Realização Evento Miss Top Colegial;1;evento;50.000,00
+618;Olair Francisco;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Reforma e revitalização da Feira do Guará;10.000;m2;150.000,00
+619;Olair Francisco;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Execução de obras de urbanização e infraestrutura;50.000;m2;600.000,00
+620;Olair Francisco;SE Agricultura;Agricultura ;Evento;Difusão cultural;DF;Apoio à realização de eventos - XXXX Casa Rural - Participação eventos agropecuários;1;evento;150.000,00
+621;Olair Francisco;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos culturais e educacionais;5;evento;1.300.000,00
+622;Olair Francisco;SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização de eventos culturais;1;evento;150.000,00
+623;Olair Francisco;AR Guará;Desporto e Lazer;Não é evento;Lazer;X-Guará;Construção de Quadra de Esportes no Quarto Batalhão da PMDF;7.000;m2;150.000,00
+624;Olair Francisco;SE Cultura;Cultura;Não é evento;Difusão cultural;I-Plano Piloto;Apoio financeiro ao Memorial JK;1;entidade;190.000,00
+625;Olair Francisco;AR Águas Claras;Cultura;Evento;Difusão cultural;XX-Águas Claras;Realização de eventos - Aniversário da Cidade;1;evento;100.000,00
+626;Olair Francisco;AR Brazlândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Execução de obras de urbanização e infraestrutura;20.000;m2;300.000,00
+627;Olair Francisco;AR Santa Maria;Cultura;Evento;Difusão cultural;XIII-Santa Maria;Apoio à realização Festa Forrodilha do Cerrado;1;evento;100.000,00
+628;Olair Francisco;AR Taguatinga;Cultura;Evento;Difusão cultural;III-Taguatinga;Realização de eventos - Lavagem do Acarajé da Yaya;1;evento;30.000,00
+629;Olair Francisco;AR Brazlândia;Cultura;Evento;Difusão cultural;IV-Brazlândia;Realização de eventos - Festa do morango e exposição agrícola;1;evento;80.000,00
+630;Olair Francisco;AR Brazlândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Manutenção de estradas rurais;20.000;m2;50.000,00
+631;Olair Francisco;SE Segurança;Segurança Pública;Não é evento;Segurança Pública;DF;Capacitação de servidores - Agentes de segurança;300;servidor;200.000,00
+632;Olair Francisco;AR Brazlândia;Cultura;Evento;Difusão cultural;IV-Brazlândia;Apoio à realização de eventos culturais e desportivos;1;evento;150.000,00
+633;Olair Francisco;PCDF;Segurança Pública;Não é evento;Segurança Pública;DF;Reforma e ampliação do Instituto de Identificação da PCDF;10.000;m2;200.000,00
+634;Olair Francisco;AR Park Way;Urbanismo;Não é evento;Infra-Estrutura urbana;XXIV-Park Way;Execução de obras de urbanização e infraestrutura;5.000;m2;150.000,00
+635;Olair Francisco;AR São Sebastião;Cultura;Evento;Difusão cultural;XIV-São Sebastião;Apoio à realização do evento Esporte a Melhor Saída contra as Drogas;1;evento;100.000,00
+636;Olair Francisco;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Reforma e revitalização da Feira do Guará;20.000;m2;150.000,00
+637;Olair Francisco;AR Riacho Fundo II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Construção de feiras;20.000;m2;800.000,00
+638;Olair Francisco;AR Águas Claras;Cultura;Evento;Difusão cultural;XX-Águas Claras;Apoio à realização de Festa de Natal para as Crianças;1;evento;150.000,00
+639;Olair Francisco;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras de urbanização e infraestrutura;50.000;m2;4.000.000,00
+640;Olair Francisco;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos - O Maior São João do Cerrado;1;evento;200.000,00
+641;Claudio Abrantes;SE Fazenda;Administração;Não é evento;Tecnologia da Informação;DF;Gestão da Informação e dos Sistemas de TI;1;ação;200.000,00
+642;Claudio Abrantes;SE Educação;Educação;Não é evento;Educação Básica;DF;Aquisição de ônibus para Educação Ambiental;0;Unidade não informada;200.000,00
+643;Claudio Abrantes;SE Educação;Educação;Não é evento;Educação Básica;VI-Planaltina;Apoio ao CE Osório Bacchin;60;m2;200.000,00
+644;Chico Vigilante;Instituto do Meio Ambiente;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Revitalização do Parque Recreativo do Gama (Prainha);1;parque;300.000,00
+645;Chico Vigilante;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Implantação de PEC;10;PEC;400.000,00
+646;Chico Vigilante;SE Cultura;Cultura;Não é evento;Patrimônio histórico;I-Plano Piloto;Apoio financeiro ao Memorial JK;1;entidade;250.000,00
+647;Chico Vigilante;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Execução de obras de urbanização e infraestrutura;10.000;m2;400.000,00
+648;Chico Vigilante;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de atividades culturais;50;evento;1.000.000,00
+649;Chico Vigilante;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Implantação de PEC;10.000;m2;240.000,00
+650;Claudio Abrantes;AR Sobradinho;Desporto e Lazer;Não é evento;Lazer;V-Sobradinho;Construção de quadra poliesportiva;1;quadra;700.000,00
+651;Chico Vigilante;AR Brazlândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IV-Brazlândia;Implantação de PEC;10.000;m2;240.000,00
+652;Chico Vigilante;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Execução de obras de urbanização no Condomínio Paraíso;30.000;m2;660.000,00
+653;Chico Vigilante;AR Gama;Urbanismo;Não é evento;Infra-Estrutura urbana;II-Gama;Conclusão da construção de estacionamento em frente à Igreja Evangélica na EQ 40/42;1.000;m2;150.000,00
+654;Chico Vigilante;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Implantação de PEC;10.000;m2;240.000,00
+655;Chico Vigilante;Jardim Zoológico;Gestão Ambiental;Não é evento;Preservação ambiental;XIX-Candangolândia;Reforma das instalações do Zoológico;20.000;m2;200.000,00
+656;Chico Vigilante;AR Ceilândia;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Execução de obras de urbanização;50.000;m2;2.100.000,00
+657;Chico Vigilante;AR Taguatinga;Urbanismo;Não é evento;Infra-Estrutura urbana;III-Taguatinga;Execução de obras de urbanização e infraestrutura;10.000;m2;300.000,00
+658;Chico Vigilante;AR Planaltina;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Implantação de PEC;10.000;m2;240.000,00
+659;Chico Vigilante;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Execução de obras de urbanização;20.000;m2;400.000,00
+660;Chico Vigilante;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;IX-Ceilândia;Apoio a eventos esportivos;15;evento;200.000,00
+661;Chico Vigilante;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização no Condomínio Porto Rico;100.000;m2;500.000,00
+662;Chico Vigilante;AGEFIS;Administração;Não é evento;Tecnologia da Informação;I-Plano Piloto;Melhoria no Sistema de TI;1;sistema;200.000,00
+663;Chico Vigilante;AR Ceilândia;Cultura;Evento;Difusão cultural;IX-Ceilândia;Realização do Aniversário do Setor Habitacional Por do Sol/Dia das Crianças;1;evento;50.000,00
+664;Chico Vigilante;AR Riacho Fundo II;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Execução de obras de urbanização;20.000;m2;300.000,00
+665;Chico Vigilante;AR Set. Ind. & Abast.;Urbanismo;Não é evento;Energia Elétrica;XXIX-S.IA;Ampliação/manutenção de iluminação pública;0;Unidade não informada;200.000,00
+666;Chico Vigilante;AR Taguatinga;Urbanismo;Não é evento;Energia Elétrica;III-Taguatinga;Ampliação da rede de iluminação pública;10.000;m;50.000,00
+667;Chico Vigilante;AR Sobradinho;Urbanismo;Não é evento;Energia Elétrica;V-Sobradinho;Ampliação da rede de iluminação no Condomínio Nova Petrópolis;10.000;m;50.000,00
+668;Chico Vigilante;AR Samambaia;Cultura;Evento;Difusão cultural;XII-Samambaia;Apoio à Festa dos Estados Gospel;1;evento;50.000,00
+669;Chico Vigilante;SE Educação;Educação;Não é evento;Educação Básica;IV-Brazlândia;Ampliação das dependências administrativa e pedagógica da EC Chapadinha;10.000;m2;250.000,00
+670;Chico Vigilante;DF;Urbanismo;Não é evento;Infra-Estrutura urbana;XXIX-S.IA;Construção de abrigo para passageiro de ônibus ;10.000;m2;40.000,00
+671;Chico Vigilante;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Execução de obras de urbanização;10.000;m2;600.000,00
+672;Chico Vigilante;AR Riacho Fundo II;Cultura;Evento;Difusão cultural;XXI-Riacho Fundo II;Realização da Festa de Aniversário do CAUB I;1;evento;50.000,00
+673;Chico Vigilante;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Reforma das feiras permanentes;10.000;m2;800.000,00
+674;Chico Vigilante;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Implantação de iluminação pública;10;m2;250.000,00
+675;Chico Vigilante;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;IX-Ceilândia;Implantação de iluminação pública;35;m2;800.000,00
+676;Chico Vigilante;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Execução de obras de urbanização;400;m2;400.000,00
+677;Chico Vigilante;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Implantação de PEC;10.000;m2;240.000,00
+678;Chico Vigilante;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à Festa Tradição e Cultura;1;evento;50.000,00
+679;Chico Vigilante;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao evento Maior São João do Cerrado;1;evento;200.000,00
+680;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à radio Gazeta FM;1;evento;70.000,00
+681;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização de eventos de quadrilhas juninas;1;evento;250.000,00
+682;Wasny de Roure;SE Esporte;Desporto e Lazer;Não é evento;Desporto Comunitário;DF;Apoio ao futebol amador - Programa Boleiros;1;projeto;200.000,00
+683;Wasny de Roure;SE Justiça;Assistência Social;Não é evento;Ass. Comunitária;DF;Apoio a entidades de recuperação de dependentes químicos;2.000;pessoa;300.000,00
+684;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;I-Plano Piloto;Apoio às atividades do Açougue Cultural T-Bone;1;evento;80.000,00
+685;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio a Bibliotecas;1;evento;100.000,00
+686;Wasny de Roure;SEDHAB;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Apoio à Realização de Projetos Urbanísticos;5;m2;130.000,00
+687;Wasny de Roure;SE Criança;Assistência Social;Não é evento;Ass à Criança;DF;Apoio às atividades dos Conselhos Tutelares;40;conselho;400.000,00
+688;Wasny de Roure;SE Trabalho;Assistência Social;Não é evento;Ass. Comunitária;DF;Capacitação de pessoal em costura industrial;0;Unidade não informada;300.000,00
+689;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Ferrock;1;evento;200.000,00
+690;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da Conferência das Mulheres;1;evento;70.000,00
+691;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;II-Gama;Apoio à realização do Festival de Música Popular;1;evento;100.000,00
+692;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio às atividades da AGAP;1;evento;100.000,00
+693;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da FEICOTUR;1;evento;100.000,00
+694;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da Festa Genuína;1;evento;180.000,00
+695;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da Roda do Negro d´Água;1;evento;50.000,00
+696;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao projeto Capoterapia;1;evento;60.000,00
+697;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio ao projeto Amor em Ação;1;evento;150.000,00
+698;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio às atividades do Centro de Reabilitação do Preso;1;evento;100.000,00
+699;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Apoio à realização do 4o Arraiá da Prefeitura do Itapoã;1;evento;70.000,00
+700;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio às atividades do IACC;1;evento;100.000,00
+701;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;XXVIII-Itapoã;Apoio à realização da Marcha para Jesus no Itapoã;1;evento;50.000,00
+702;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio às atividades do CIEC;1;evento;100.000,00
+703;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização da Marcha pela Família e contra as Drogas;1;evento;120.000,00
+704;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;VI-Planaltina;Apoio à realização da Cruzada Evangelista em Planaltina;1;evento;70.000,00
+705;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio ao projeto Núcleo de Ensinamento da Viola;1;evento;150.000,00
+706;Wasny de Roure;AR Samambaia;Urbanismo;Não é evento;Infra-Estrutura urbana;XII-Samambaia;Execução de obras de urbanização;1.500;m2;1.500.000,00
+707;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Rockarte;1;evento;100.000,00
+708;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;DF;Apoio à realização do Dia do Evangélico CPDF;1;evento;80.000,00
+709;Wasny de Roure;SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio à realização da Feira Cultural;1;evento;50.000,00
+710;Wasny de Roure;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio às atividades do ICP;1;evento;350.000,00
+711;Wasny de Roure;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;XXI-Riacho Fundo II;Reforma da Feira;1.000;m2;1.000.000,00
+712;Wasny de Roure;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Expansão da rede elétrica no Condomínio Santa Barbara;50;m2;50.000,00
+713;Wasny de Roure;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Execução de obras em escolas;3.000;m2;3.000.000,00
+714;Wasny de Roure;SEDEST;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Reforma dos bancos de leite;100;m2;500.000,00
+715;Wasny de Roure;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Construção de Brinquedoteca no HRT;70;m2;70.000,00
+716;Wasny de Roure;AR Lago Norte;Urbanismo;Não é evento;Infra-Estrutura urbana;XVIII-Lago Norte;Implantação de iluminação pública;500;m2;500.000,00
+717;Wasny de Roure;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Manutenção e reforma de escolas;1.000;m2;1.000.000,00
+718;Wasny de Roure;AR Santa Maria;Urbanismo;Não é evento;Infra-Estrutura urbana;XIII-Santa Maria;Execução de obras de urbanização;1.500;m2;1.500.000,00
+719;Wasny de Roure;SE Obras;Urbanismo;Não é evento;Infra-Estrutura urbana;VI-Planaltina;Construção do Complexo Cultural da Planaltina - Casa da Cultura;300;m2;200.000,00
+720;Chico Vigilante;SE Cultura;Cultura;Evento;Difusão cultural;XII-Samambaia;Apoio ao evento Festa das Tribos;1;evento;150.000,00
+721;Chico Vigilante;SE Cultura;Cultura;Não é evento;Difusão cultural;IX-Ceilândia;Apoio às atividades da Casa do Cantador;1;evento;250.000,00
+722;Chico Vigilante;SE Cultura;Cultura;Evento;Difusão cultural;IX-Ceilândia;Apoio ao evento Chameb;1;evento;100.000,00
+723;Chico Vigilante;SE Cultura;Cultura;Não é evento;Difusão cultural;DF;Apoio à TV Comunitária;1;evento;100.000,00
+724;Chico Vigilante;AR Brasília;Urbanismo;Não é evento;Infra-Estrutura urbana;I-Plano Piloto;Manutenção das atividades do Parque Sarah Kubitschek;1;parque;500.000,00
+725;Wellington Luiz;SE Educação;Educação;Não é evento;Educação Básica;DF;Implementação da Escola Bilingue;1;escola;200.000,00
+726;Wellington Luiz;SE Segurança;Segurança Pública;Evento;Formação de RH;DF;1a. Conferência Distrital de Segurança Pública;1;evento;100.000,00
+727;Wellington Luiz;AR Set. Ind. & Abast.;Urbanismo;Não é evento;Infra-Estrutura urbana;XXIX-S.IA;Implementação de obras;100;m2;150.000,00
+728;Wellington Luiz;SE Educação;Educação;Não é evento;Educação Especial;DF;Reforma e ampliação do CEEDV - Centro de Ensino Especial de Deficientes Visuais;1;escola;700.000,00
+729;Wellington Luiz;AR SCIA (Estrutural);Urbanismo;Não é evento;Infra-Estrutura urbana;XXV-SCIA (Estrutural);Implementação de obras na Estrutural;100;m2;150.000,00
+730;Wellington Luiz;AR Guará;Urbanismo;Não é evento;Infra-Estrutura urbana;X-Guará;Implementação de obras;1.000;m2;2.000.000,00
+731;Wellington Luiz;DETRAN-DF;Segurança Pública;Não é evento;Formação de RH;DF;Capacitação de Servidores - Copa 2014;100;pessoa;250.000,00
+732;Wellington Luiz;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Manutenção das atividades da ABRACI;100;m2;162.000,00
+733;Wellington Luiz;DETRAN-DF;Segurança Pública;Não é evento;Formação de RH;DF;Capacitação de Servidores do DETRAN - Pós Graduação;20;pessoa;229.500,00
+734;Wellington Luiz;SE Criança;Direitos da Cidadania;Não é evento;Ass à Criança;DF;Manutenção e funcionamento dos Conselhos Tutelares;10;conselho;500.000,00
+735;Wellington Luiz;AR Cruzeiro;Urbanismo;Não é evento;Infra-Estrutura urbana;XI-Cruzeiro;Implementação de obras;100;m2;200.000,00
+736;Wellington Luiz;PCDF;Segurança Pública;Não é evento;Formação de RH;DF;Capacitação de Servidores da PCDF;100;pessoa;350.000,00
+737;Wellington Luiz;SE Segurança;Segurança Pública;Não é evento;Formação de RH;DF;Capacitação de servidores - Agentes de Segurança Pública;50;pessoa;200.000,00
+738;Wellington Luiz;PCDF;Segurança Pública;Não é evento;Gestão Man. Serv. Estado;DF;Ampliação, construção e reforma do IP-DNA PCDF;200;m2;600.000,00
+739;Wellington Luiz;AR Águas Claras;Urbanismo;Não é evento;Infra-Estrutura urbana;XX-Águas Claras;Implementação de obras;100;m2;150.000,00
+740;Wellington Luiz;AR Recanto das Emas;Urbanismo;Não é evento;Infra-Estrutura urbana;XV-Recanto das Emas;Implementação de obras;100;m2;250.000,00
+741;Wellington Luiz;PCDF;Segurança Pública;Não é evento;Gestão Man. Serv. Estado;DF;Ampliação, construção e reforma do Instituto de Criminalística PCDF;200;m2;800.000,00
+742;Wellington Luiz;AR Lago Norte;Urbanismo;Não é evento;Infra-Estrutura urbana;XVIII-Lago Norte;Implementação de obras;100;m2;200.000,00
+743;Wellington Luiz;AR Vicente Pires;Urbanismo;Não é evento;Infra-Estrutura urbana;XXX-Vicente Pires;Implementação de obras;100;m2;650.000,00
+744;Wellington Luiz;AR Jardim Botânico;Urbanismo;Não é evento;Infra-Estrutura urbana;XXVII-Jardim Botânico;Implementação de obras;100;m2;500.000,00
+745;Wellington Luiz;PCDF;Segurança Pública;Não é evento;Gestão Man. Serv. Estado;DF;Aquisição de bens materiais para o IML;200;m2;200.000,00
+746;Wellington Luiz;AGEFIS;Administração;Não é evento;Tecnologia da Informação;DF;Aquisição de SGBD - Sistema de Gerenciamento de Banco de Dados;1;ação;200.000,00
+747;Wellington Luiz;PCDF;Segurança Pública;Não é evento;Gestão Man. Serv. Estado;DF;Execução de reforma e ampliação do Instituto de Identificação da PCDF;200;m2;600.000,00
+748;Wellington Luiz;SEDEST;Direitos da Cidadania;Não é evento;Ass. Comunitária;DF;Apoio às atividades da Pestalozzi;100;família;200.000,00
+749;Wellington Luiz;SE Justiça;Direitos da Cidadania;Não é evento;Ass. Comunitária;DF;Atividades da Frente Parlamentar do Combate e à Dependência Química;100;ação;350.000,00
+750;Wellington Luiz;Novacap;Urbanismo;Não é evento;Infra-Estrutura urbana;DF;Implementação de diversas obras;200;m2;3.608.500,00

@@ -1,0 +1,160 @@
+case "XX - ÁGUAS CLARAS" : 
+	LATITUDE = "-15.83687";
+	LONGITUDE = "-48.02512"; 
+	break;
+
+case "DF" : 
+	LATITUDE = "-15.7924";
+	LONGITUDE = "-47.88236"; 
+	break;
+
+case "DISTRITO FEDERAL" : 
+	LATITUDE = "-15.77972";
+	LONGITUDE = "-47.92972"; 
+	break;
+
+case "IV - BRAZLÂNDIA" : 
+	LATITUDE = "-15.66602";
+	LONGITUDE = "-48.19779"; 
+	break;
+
+case "XIX - CANDANGOLÂNDIA" : 
+	LATITUDE = "-15.85171";
+	LONGITUDE = "-47.95028"; 
+	break;
+
+case "IX - CEILÂNDIA" : 
+	LATITUDE = "-15.81579";
+	LONGITUDE = "-48.11825"; 
+	break;
+
+case "XI - CRUZEIRO" : 
+	LATITUDE = "-15.78926";
+	LONGITUDE = "-47.92505"; 
+	break;
+
+case "II - GAMA" : 
+	LATITUDE = "-16.01498";
+	LONGITUDE = "-48.0622"; 
+	break;
+
+case "X - GUARÁ" : 
+	LATITUDE = "-15.82684";
+	LONGITUDE = "-47.98028"; 
+	break;
+
+case "XXVIII - ITAPOÃ" : 
+	LATITUDE = "-15.74452";
+	LONGITUDE = "-47.75965"; 
+	break;
+
+case "XXVII – JARDIM BOTÂNICO" : 
+	LATITUDE = "-15.84065";
+	LONGITUDE = "-47.88077"; 
+	break;
+
+case "XVIII - LAGO NORTE" : 
+	LATITUDE = "-15.73601";
+	LONGITUDE = "-47.86119"; 
+	break;
+
+case "XVI - LAGO SUL" : 
+	LATITUDE = "-15.83562";
+	LONGITUDE = "-47.87149"; 
+	break;
+
+case "VIII - NÚCLEO BANDEIRANTE" : 
+	LATITUDE = "-15.87125";
+	LONGITUDE = "-47.96747"; 
+	break;
+
+case "VII - PARANOÁ" : 
+	LATITUDE = "-15.77104";
+	LONGITUDE = "-47.77954"; 
+	break;
+
+case "XXIV - PARK WAY" : 
+	LATITUDE = "-15.86245";
+	LONGITUDE = "-47.97073"; 
+	break;
+
+case "VI - PLANALTINA" : 
+	LATITUDE = "-15.62065";
+	LONGITUDE = "-47.6556"; 
+	break;
+
+case "I - PLANO PILOTO" : 
+	LATITUDE = "-15.79247";
+	LONGITUDE = "-47.88239"; 
+	break;
+
+case "XV - RECANTO DAS EMAS" : 
+	LATITUDE = "-15.90669";
+	LONGITUDE = "-48.07214"; 
+	break;
+
+case "XVII - RIACHO FUNDO" : 
+	LATITUDE = "-15.88052";
+	LONGITUDE = "-48.00995"; 
+	break;
+
+case "XXI - RIACHO FUNDO II" : 
+	LATITUDE = "-15.88052";
+	LONGITUDE = "-48.00995"; 
+	break;
+
+case "XII - SAMAMBAIA" : 
+	LATITUDE = "-15.87681";
+	LONGITUDE = "-48.08827"; 
+	break;
+
+case "XIII - SANTA MARIA" : 
+	LATITUDE = "-16.01867";
+	LONGITUDE = "-47.01708"; 
+	break;
+
+case "XIV - SÃO SEBASTIÃO" : 
+	LATITUDE = "-15.96364";
+	LONGITUDE = "-47.721"; 
+	break;
+
+case "XXV - SETOR COMPL. DE IND. E ABASTECIMENTO" : 
+	LATITUDE = "-15.8887";
+	LONGITUDE = "-47.7713"; 
+	break;
+
+case "XXIX - SIA" : 
+	LATITUDE = "-15.80163";
+	LONGITUDE = "-47.96058"; 
+	break;
+
+case "V - SOBRADINHO" : 
+	LATITUDE = "-15.64275";
+	LONGITUDE = "-47.81205"; 
+	break;
+
+case "XXVI - SOBRADINHO II" : 
+	LATITUDE = "-15.64275";
+	LONGITUDE = "-47.81205"; 
+	break;
+
+case "XXII - SUDOESTE/OCTOGONAL" : 
+	LATITUDE = "-15.78229";
+	LONGITUDE = "-47.92303"; 
+	break;
+
+case "III - TAGUATINGA" : 
+	LATITUDE = "-15.81772";
+	LONGITUDE = "-48.07596"; 
+	break;
+
+case "XXIII - VARJÃO" : 
+	LATITUDE = "-15.7092";
+	LONGITUDE = "-47.87662"; 
+	break;
+
+case "XXX - VICENTE PIRES" : 
+	LATITUDE = "-15.80611";
+	LONGITUDE = "-48.02955"; 
+	break;
+
